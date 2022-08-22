@@ -1,0 +1,91 @@
+BotTrazer__2022-08-15
+
+Consulta base de datos: 2022-08-15 10.38.00 / 2022-08-15 10.43.00 HORA: 10.48.43
+
+Casos encontrados: 0
+() HORA: 10.48.43
+
+Consulta base de datos: 2022-08-15 10.40.00 / 2022-08-15 10.45.00 HORA: 10.50.43
+
+Casos encontrados: 0
+() HORA: 10.50.43
+
+Consulta base de datos: 2022-08-15 10.41.00 / 2022-08-15 10.46.00 HORA: 10.51.20
+
+Casos encontrados: 21
+(('516202', '3994776', 'CLIENTE CITADO PARA EL DIA 15/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 29, 1), '8'), ('517347', '3993147', 'KARDEX: 517347  Derechos Notariales: 573.66  Derechos Registrales: 1040.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 49, 36), '8'), ('517519', '3959933', 'CLIENTE CITADO PARA FIRMAR EEPP 16/08/2022 A LAS 04:30 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 31, 40), '8'), ('517520', '3995827', 'CLIENTE CITADO PARA FIRMAR EEPP 16/08/2022 A LAS 06:00 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 35, 52), '8'), ('517704', '3995320', 'SE REMITIO CORREO PARA PROGRAMAR FIRMA EN EP A COMPRADORES', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 34, 27), '8'), ('517971', '3998104', 'KARDEX: 517971  Derechos Notariales: 573.66  Derechos Registrales: 1042.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 33, 41), '8'), ('517972', '3997914', 'KARDEX: 517972  Derechos Notariales: 573.66  Derechos Registrales: 814.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 34, 45), '8'), ('518005', '3994961', 'KARDEX: 518005  Derechos Notariales: 577.32  Derechos Registrales: 1874.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 30, 16), '8'), ('518007', '4000247', 'KARDEX: 518007  Derechos Notariales: 573.66  Derechos Registrales: 1881.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 28, 29), '8'), ('518009', '4000213', 'KARDEX: 518009  Derechos Notariales: 623.65  Derechos Registrales: 2591.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 30, 56), '8'), ('518073', '3987855', 'KARDEX: 518073  Derechos Notariales: 627.31  Derechos Registrales: 3067.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 10, 47), '8'), ('518093', '3987259', 'KARDEX: 518093  Derechos Notariales: 577.32  Derechos Registrales: 1819.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 48, 40), '8'), ('518127', '3997127', 'KARDEX: 518127  Derechos Notariales: 573.66  Derechos Registrales: 1742.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 35, 54), '8'), ('518151', '3995961', 'KARDEX: 518151  Derechos Notariales: 573.66  Derechos Registrales: 1759.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 32, 45), '8'), ('518202', '3997343', 'KARDEX: 518202  Derechos Notariales: 630.97  Derechos Registrales: 9730.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 27, 32), '8'), ('518207', '3998991', 'KARDEX: 518207  Derechos Notariales: 623.65  Derechos Registrales: 2598.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 26, 36), '8'), ('518314', '3997839', 'PENDIENTES:1.. MINUTA DE CV ORIGINAL.2. PU 2022 DEL DPTO.3.RENTA.4. ALCABALA.5. PROF COMPRADOR Y VENDEDORES.\t', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 19, 23), '8'), ('518903', '3988457', 'KARDEX: 518903  Derechos Notariales: 630.97  Derechos Registrales: 3520.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 48, 39), '8'), ('518910', '3998522', 'KARDEX: 518910  Derechos Notariales: 623.65  Derechos Registrales: 3605.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 23, 33), '8'), ('518919', '3989995', 'KARDEX: 518919  Derechos Notariales: 627.31  Derechos Registrales: 1792.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 44, 49), '8'), ('518928', '3997379', 'KARDEX: 518928  Derechos Notariales: 623.65  Derechos Registrales: 1919.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 46, 54), '8')) HORA: 10.51.20
+
+Expendiente Nro. 3994776 HORA: 10.51.33
+
+Expendiente Nro. 3993147 HORA: 10.51.45
+
+Expendiente Nro. 3959933 HORA: 10.51.58
+
+Expendiente Nro. 3995827 HORA: 10.52.9
+
+Expendiente Nro. 3995320 HORA: 10.52.20
+
+Expendiente Nro. 3998104 HORA: 10.52.30
+
+Expendiente Nro. 3997914 HORA: 10.52.40
+
+Expendiente Nro. 3994961 HORA: 10.52.50
+
+Expendiente Nro. 4000247 HORA: 10.53.1
+
+Expendiente Nro. 4000213 HORA: 10.53.12
+
+Expendiente Nro. 3987855 HORA: 10.53.27
+
+Error: Carga de la pagina https://www.trazerweb.com/BandejaEntrada
+Navigation failed because page was closed!
+=========================== logs ===========================
+navigating to "https://www.trazerweb.com/BandejaEntrada", waiting until "networkidle"
+============================================================ HORA: 10.53.27
+
+Expendiente Nro. 3987259 HORA: 10.53.28
+
+Error: Carga de la pagina https://www.trazerweb.com/BandejaEntrada
+Target page, context or browser has been closed HORA: 10.53.28
+
+Expendiente Nro. 3997127 HORA: 10.53.29
+
+Error: Carga de la pagina https://www.trazerweb.com/BandejaEntrada
+Target page, context or browser has been closed HORA: 10.53.29
+
+Expendiente Nro. 3995961 HORA: 10.53.29
+
+Error: Carga de la pagina https://www.trazerweb.com/BandejaEntrada
+Target page, context or browser has been closed HORA: 10.53.29
+
+Expendiente Nro. 3997343 HORA: 10.53.30
+
+Error: Carga de la pagina https://www.trazerweb.com/BandejaEntrada
+Target page, context or browser has been closed HORA: 10.53.30
+
+Expendiente Nro. 3998991 HORA: 10.53.30
+
+Error: Carga de la pagina https://www.trazerweb.com/BandejaEntrada
+Target page, context or browser has been closed HORA: 10.53.30
+
+Expendiente Nro. 3997839 HORA: 10.53.31
+
+Error: Carga de la pagina https://www.trazerweb.com/BandejaEntrada
+Target page, context or browser has been closed HORA: 10.53.31
+
+Expendiente Nro. 3988457 HORA: 10.53.32
+
+Error: Carga de la pagina https://www.trazerweb.com/BandejaEntrada
+Target page, context or browser has been closed HORA: 10.53.32
+
+Expendiente Nro. 3998522 HORA: 10.53.32
+
+Error: Carga de la pagina https://www.trazerweb.com/BandejaEntrada
+Target page, context or browser has been closed HORA: 10.53.32
+
+Consulta base de datos: 2022-08-15 15.40.00 / 2022-08-15 15.45.00 HORA: 15.50.34
+
+Casos encontrados: 37
+(('516197', '3993429', 'CLIENTE CITADO PARA FIRMAR EEPP 15/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 12, 59, 9), '8'), ('516202', '3994776', 'CLIENTE CITADO PARA EL DIA 15/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 29, 1), '8'), ('517237', '3997346', 'Llegó Cheque por el monto de S/.    6,025.00 con orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 32, 8), '8'), ('517237', '3997346', 'Llegó Cheque por el monto de S/.  392,490.00 con orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 32, 39), '8'), ('517347', '3993147', 'KARDEX: 517347  Derechos Notariales: 573.66  Derechos Registrales: 1040.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 49, 36), '8'), ('517519', '3959933', 'CLIENTE CITADO PARA FIRMAR EEPP 16/08/2022 A LAS 04:30 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 31, 40), '8'), ('517520', '3995827', 'CLIENTE CITADO PARA FIRMAR EEPP 16/08/2022 A LAS 06:00 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 35, 52), '8'), ('517704', '3995320', 'SE REMITIO CORREO PARA PROGRAMAR FIRMA EN EP A COMPRADORES', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 34, 27), '8'), ('517740', '3972481', 'SE REITERA PENDIENTE: MINUTA DE CV EN ORIGINAL, EVIDENCIAS DE CUOTA INICIAL.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 14, 57, 8), '8'), ('517971', '3998104', 'KARDEX: 517971  Derechos Notariales: 573.66  Derechos Registrales: 1042.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 33, 41), '8'), ('517972', '3997914', 'KARDEX: 517972  Derechos Notariales: 573.66  Derechos Registrales: 814.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 34, 45), '8'), ('518005', '3994961', 'KARDEX: 518005  Derechos Notariales: 577.32  Derechos Registrales: 1874.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 30, 16), '8'), ('518007', '4000247', 'KARDEX: 518007  Derechos Notariales: 573.66  Derechos Registrales: 1881.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 28, 29), '8'), ('518009', '4000213', 'KARDEX: 518009  Derechos Notariales: 623.65  Derechos Registrales: 2591.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 30, 56), '8'), ('518009', '4000213', 'CLIENTE CITADO PARA FIRMAR EEPP 16/08/2022 A LAS 05:00 PM .', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 11, 53, 4), '8'), ('518069', '3982725', 'KARDEX: 518069  Derechos Notariales: 573.66  Derechos Registrales: 1748.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 55, 54), '8'), ('518073', '3987855', 'KARDEX: 518073  Derechos Notariales: 627.31  Derechos Registrales: 3067.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 10, 47), '8'), ('518073', '3987855', 'Llegó Cheque por el monto de S/.  372,000.00 sin orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 31, 23), '8'), ('518093', '3987259', 'KARDEX: 518093  Derechos Notariales: 577.32  Derechos Registrales: 1819.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 48, 40), '8'), ('518127', '3997127', 'KARDEX: 518127  Derechos Notariales: 573.66  Derechos Registrales: 1742.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 35, 54), '8'), ('518151', '3995961', 'KARDEX: 518151  Derechos Notariales: 573.66  Derechos Registrales: 1759.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 32, 45), '8'), ('518193', '3995082', 'Llegó Cheque por el monto de US$  112,000.00 sin orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 22, 32), '8'), ('518193', '3995082', 'Llegó Cheque por el monto de US$   80,000.00 sin orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 23, 15), '8'), ('518202', '3997343', 'KARDEX: 518202  Derechos Notariales: 630.97  Derechos Registrales: 9730.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 27, 32), '8'), ('518207', '3998991', 'KARDEX: 518207  Derechos Notariales: 623.65  Derechos Registrales: 2598.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 26, 36), '8'), ('518314', '3997839', 'PENDIENTES:1.. MINUTA DE CV ORIGINAL.2. PU 2022 DEL DPTO.3.RENTA.4. ALCABALA.5. PROF COMPRADOR Y VENDEDORES.\t', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 19, 23), '8'), ('518596', '3998481', 'Llegó Cheque por el monto de US$  253,600.00 sin orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 24, 34), '8'), ('518596', '3998481', 'Llegó Cheque por el monto de S/.   26,120.80 con orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 33, 14), '8'), ('518658', '3989429', 'Llegó Cheque por el monto de US$  400,000.00 sin orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 30, 49), '8'), ('518903', '3988457', 'KARDEX: 518903  Derechos Notariales: 630.97  Derechos Registrales: 3520.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 48, 39), '8'), ('518910', '3998522', 'KARDEX: 518910  Derechos Notariales: 623.65  Derechos Registrales: 3605.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 23, 33), '8'), ('518919', '3989995', 'KARDEX: 518919  Derechos Notariales: 627.31  Derechos Registrales: 1792.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 44, 49), '8'), ('518928', '3997379', 'KARDEX: 518928  Derechos Notariales: 623.65  Derechos Registrales: 1919.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 46, 54), '8'), ('518928', '3997379', 'PENDIENTE: MINUTA DE CV EN ORIGINAL, ADENDA, EVIDENCIAS DE CUOTA INICIAL, PAGOS POR DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 11, 4, 40), '8'), ('519041', '3997576', 'KARDEX: 519041  Derechos Notariales: 641.94  Derechos Registrales: 4496.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 13, 29, 54), '8'), ('519041', '3997576', 'PENDIENTES:1. BLOQUEO INSCRITO.2. MINUTA DE CV ORIGINAL.3.  HR/PU 2022  de c/u de los vendedores.4. RENTA.5. ALCABALA.6. PREDIAL.7. PAGOS NOT Y REGIST-COMPRADOR.8. EVIDENCIA INICIAL.9. CHEQUE RECURSOS PROPIOS.10. CHEQUE PRODUCTO DEL DESEMBOLSO.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 13, 50, 28), '8'), ('519041', '3997576', '11. PROF. U OCUP - APODERADOS DE VENDEDORES', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 13, 50, 45), '8')) HORA: 15.50.34
+
+Expendiente Nro. 3993429 HORA: 15.50.45

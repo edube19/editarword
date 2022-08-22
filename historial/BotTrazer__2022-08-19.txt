@@ -1,0 +1,467 @@
+BotTrazer__2022-08-19
+
+Consulta base de datos: 2022-08-19 08.47.00 / 2022-08-19 08.52.00 HORA: 8.57.54
+
+Casos encontrados: 110
+(('511953', '3976346', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 45, 46), '8'), ('512832', '3984000', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 46, 54), '8'), ('512875', '3987686', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 31, 37), '8'), ('512875', '3987686', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 32, 32), '8'), ('513589', '3979789', 'Firmo: OYANGUREN CORTIJO  ANDREA en representación de BANCO DE CREDITO DEL PERU en representación de PIONERO 11 S.A.C.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 53, 55), '8'), ('513909', '3983679', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 28, 23), '8'), ('513909', '3983679', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 29, 7), '8'), ('513957', '3993251', 'Firmo: OYANGUREN CORTIJO  ANDREA en representación de BANCO DE CREDITO DEL PERU en representación de PIONERO 11 S.A.C.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 6, 3), '8'), ('514056', '3986157', 'Firmo: OYANGUREN CORTIJO  ANDREA en representación de BANCO DE CREDITO DEL PERU en representación de PIONERO 7 S.A.C.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 44, 7), '8'), ('514056', '3986157', 'Firmo: OYANGUREN CORTIJO  ANDREA en representación de BANCO DE CREDITO DEL PERU en representación de PIONERO 7 S.A.C.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 47, 17), '8'), ('514450', '3988110', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 41, 6), '8'), ('514583', '3978013', 'Firmo: CABALLERO FARRO MAURICIO JOSE en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 46, 33), '8'), ('514583', '3978013', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 47, 2), '8'), ('514585', '3988401', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 31, 10), '8'), ('514787', '3983661', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 43, 32), '8'), ('514801', '3982796', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 25, 59), '8'), ('514834', '3982797', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 35, 38), '8'), ('514834', '3982797', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 36, 40), '8'), ('514917', '3990623', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 19, 53), '8'), ('514922', '3989744', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 48, 20), '8'), ('514966', '3989639', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 42, 38), '8'), ('514966', '3989639', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 43, 24), '8'), ('514967', '3994503', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 38, 55), '8'), ('514967', '3994503', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 39, 48), '8'), ('514968', '3990950', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 35, 10), '8'), ('514975', '3992051', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 23, 59), '8'), ('514979', '3990869', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 28, 2), '8'), ('514980', '3986159', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 21, 3), '8'), ('514980', '3986159', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 21, 58), '8'), ('515000', '3989145', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 32, 40), '8'), ('515000', '3989145', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 33, 40), '8'), ('515089', '3990438', 'KARDEX: 515089  Derechos Notariales: 573.66  Derechos Registrales: 2256.00', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 9, 42), '8'), ('515106', '3984875', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 44, 51), '8'), ('515106', '3984875', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 45, 17), '8'), ('515120', '3988699', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 15, 18), '8'), ('515120', '3988699', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 17, 1), '8'), ('515126', '3988861', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 3, 24), '8'), ('515126', '3988861', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 4, 1), '8'), ('515131', '3991338', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 43, 8), '8'), ('515131', '3991338', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 43, 34), '8'), ('515143', '3941039', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 48, 4), '8'), ('515143', '3941039', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 48, 35), '8'), ('515151', '3992159', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 50, 3), '8'), ('515165', '3972687', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 37, 16), '8'), ('515220', '3978217', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 1, 1), '8'), ('515220', '3978217', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 1, 55), '8'), ('515226', '3963641', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 25, 5), '8'), ('515226', '3963641', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 28, 49), '8'), ('515269', '3988739', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 53, 42), '8'), ('515288', '3991711', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 48, 47), '8'), ('515288', '3991711', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 51, 4), '8'), ('515300', '3978164', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 46, 51), '8'), ('515300', '3978164', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 47, 39), '8'), ('515301', '3960341', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 56, 29), '8'), ('515301', '3960341', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 57, 15), '8'), ('515304', '3975366', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 40, 54), '8'), ('515304', '3975366', 'Firmo: CABALLERO FARRO MAURICIO JOSE en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 42, 26), '8'), ('515394', '3991340', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 51, 40), '8'), ('515427', '3993161', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 24, 49), '8'), ('515427', '3993161', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 25, 59), '8'), ('515432', '3987081', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 49, 56), '8'), ('515432', '3987081', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 50, 36), '8'), ('515455', '3989941', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 59), '8'), ('515455', '3989941', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 59, 36), '8'), ('515466', '3987709', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 17, 48), '8'), ('515466', '3987709', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 19, 31), '8'), ('515708', '3992901', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 53, 22), '8'), ('515708', '3992901', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 54, 5), '8'), ('515882', '3993025', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 5, 26), '8'), ('515882', '3993025', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 6, 22), '8'), ('516230', '3961311', 'CLIENTA INDICA QUE NO ESTA DE ACUERDO CON LA CLAUSULA ADICIOONAL DE FECHA 21 DE JUNIO DEL 2022, ELLO DEBERA DE ACLARARSE ANTES DE REALIZAR LA PROGRAMACION RESPECTIVA PARA LA FIRMA DE EEPP', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 16, 31, 18), '8'), ('516577', '3997263', 'Firmo: OTINIANO CABRERA  JORGE ENRIQUE en representación de PROYEC CONTRATISTAS GENERALES S.A.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 6, 25), '8'), ('516691', '3980201', 'SE REMITIO CORREO A CLIENTE PARA PROGRAMAR FIRMA EN EP', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 13, 15, 35), '8'), ('516691', '3980201', 'COMPRADOR FIRMARA EP VIERNES 12/08 a las 4:30 PM (Hora exacta).', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 14, 5, 48), '8'), ('516777', '3993320', 'Firmo: BOTTGER GARFIAS KARIN SUZANNE en representación de PIONERO 7 S.A.C.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 12, 25, 10), '8'), ('516917', '3989738', 'Llegó Cheque por el monto de S/.  490,500.00 sin orden de retención de fecha 02/08/22.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 14, 25, 36), '8'), ('517281', '3998236', 'Firmo: WONG PALOMINO DE DEL CARPIO MARUJA', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 12, 46, 3), '8'), ('517281', '3998236', 'Firmo: GALLEGOS ESCARCINA RHANDY ABEL', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 12, 46, 50), '8'), ('517281', '3998236', 'Firmo: QUISPE GUTIERREZ LIZETH', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 12, 47, 29), '8'), ('517317', '3981576', 'Firmo: PALPA JESUS JHASMIN GERALDINE', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 16, 43, 56), '8'), ('517317', '3981576', 'Firmo: BERRU GARCIA WALTER', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 16, 44, 20), '8'), ('517519', '3959933', 'PENDIENTE FALTANTE POR DERECHOS NOTARIALES Y REGISTRALES, CLIENTA SOMO ABONO LA SUMA DE S/ 3,500.00, SIENDO EL TOTAL POR LA SUMA DE S/ 3,935.65.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 19, 25, 28), '8'), ('517558', '3993074', 'CLIENTE CITADO PARA FIRMAR EEPP 12/08/2022 A LAS 10:30 AM', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 9, 27, 16), '8'), ('517593', '3993940', 'KARDEX: 517593  Derechos Notariales: 573.66  Derechos Registrales: 2475.00', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 12, 34, 21), '8'), ('517700', '3970158', 'Llegó Cheque por el monto de US$  270,000.00 sin orden de retención de fecha 10/08/22.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 14, 23, 42), '8'), ('517758', '3995978', 'KARDEX: 517758  Derechos Notariales: 573.66  Derechos Registrales: 815.00', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 9, 49, 13), '8'), ('518041', '3997354', 'CLIENTE FIRMARA EP JUEVES 11/08 a las 5:00 PM (Hora exacta).', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 11, 54, 59), '8'), ('518041', '3997354', 'Firmo: ORTIZ JACOBO JOSHUA CHRISTOPHER', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 17, 10, 2), '8'), ('518057', '4003539', 'Llegó Cheque por el monto de US$  125,000.00 sin orden de retención de fecha 10/08/22.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 14, 26, 29), '8'), ('518057', '4003539', 'Llegó Cheque por el monto de S/.   12,395.00 con orden de retención de fecha 10/08/22.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 14, 28, 52), '8'), ('518193', '3995082', 'PENDIENTES:1. HR /PU 2022 Vendedores PN.2. RENTA.3. ALCABALA.4. PREDIAL.5. PAGOS NOT Y REGIST-COMPRADOR.6. EVIDENCIA INICIAL.7. COMUNICACIONA SUNAT X MEDIO DE PAGO US$ 80,000.00.8. SE HIZO CONSULTA SOBRE EMISION DE CHEQUE PRODUCTO DEL DESEMBOLSO.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 11, 43, 42), '8'), ('518193', '3995082', '9. CARTA DE RETENCION COMPLETA- FUNCIONARIO/CG.10. PROFE COMPRADORES', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 11, 44, 57), '8'), ('518231', '4000092', 'KARDEX: 518231  Derechos Notariales: 573.66  Derechos Registrales: 1600.00', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 9, 44, 1), '8'), ('518282', '3971158', 'PENDIENTE: EVIDENCIAS DE CUOTA INICIAL, PAGOS POR DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 18, 32, 13), '8'), ('518289', '3899330', 'CLIENTE CITADO PARA FIRMAR EEPP 12/08/2022 A LAS 02:00 PM', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 14, 45, 1), '8'), ('518542', '4003240', 'Llegó Cheque por el monto de S/.  293,220.00 con orden de retención de fecha 10/08/22.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 14, 26, 59), '8'), ('518568', '4000506', 'Llegó Desembolso por el monto de S/.  108,270.00 sin orden de retención de fecha 10/08/22.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 10, 31, 21), '8'), ('518568', '4000506', 'LLEGÓ CERTIFICADO BANCARIO.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 10, 33, 45), '8'), ('518575', '3996027', 'Llegó Desembolso por el monto de S/.  142,470.00 sin orden de retención de fecha 10/08/22.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 10, 32, 37), '8'), ('518575', '3996027', 'LLEGÓ CERTIFICADO BANCARIO.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 10, 33, 20), '8'), ('518588', '3991607', 'Llegó Cheque por el monto de S/.  300,000.00 sin orden de retención de fecha 10/08/22.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 14, 26, 1), '8'), ('518589', '3995985', 'Esta pendiente: Minuta de compra venta original, adenda original, evidencias de cuota inicial y pago de derechos.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 12, 45, 10), '8'), ('518589', '3995985', 'Llegó Cheque por el monto de S/.  238,960.00 con orden de retención de fecha 10/08/22.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 14, 27, 53), '8'), ('518592', '4001994', 'Se encuentra pendiente: Minuta de compra venta original, adenda original, evidencias de cuota inicial y pago de derechos', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 9, 39, 15), '8'), ('518592', '4001994', 'Llegó Cheque por el monto de S/.  234,300.00 con orden de retención de fecha 10/08/22.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 14, 27, 26), '8'), ('518658', '3989429', 'PENDIENTES:1. BLOQUEO INSCRITO.2. TITULO DE SOLICITUD DE LEVANTAMIENTO DEL CONTRATO DE ARRENDAMIENTO.3. PAGOS NOT Y REGIST COMPRADOR.4. CHEQUE PRODUCTO DEL DESEMBOLSO.5. PROF U OCUP CLIENTE Y GARANTE', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 12, 44, 58), '8'), ('518730', '3999156', 'PENDIENTE: MINUTA DE CV EN ORIGINAL, EVIDENCIAS DE CUOTA INICIAL, PAGOS POR NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 19, 4, 37), '8'), ('518731', '4003179', 'PENDIENTE MINUTA DE CV EN ORIGINAL, CLAUSULA ADICIONAL, EVIDENCIAS DE CUOTA INICIAL, PAGOS POR DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 19, 3, 16), '8'), ('518735', '3999102', 'KARDEX: 518735  Derechos Notariales: 1385.43  Derechos Registrales: 9406.00', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 16, 20, 55), '8'), ('518740', '3996958', 'KARDEX: 518740  Derechos Notariales: 574.01  Derechos Registrales: 1610.00', datetime.date(2022, 8, 11), datetime.datetime(1000, 1, 1, 16, 1, 49), '8')) HORA: 8.57.54
+
+Expendiente Nro. 3976346 HORA: 8.58.8
+
+Expendiente Nro. 3984000 HORA: 8.58.35
+
+Expendiente Nro. 3987686 HORA: 8.59.2
+
+Expendiente Nro. 3987686 HORA: 8.59.27
+
+Expendiente Nro. 3979789 HORA: 8.59.52
+
+Expendiente Nro. 3983679 HORA: 9.0.17
+
+Expendiente Nro. 3983679 HORA: 9.0.40
+
+Expendiente Nro. 3993251 HORA: 9.1.3
+
+Expendiente Nro. 3986157 HORA: 9.1.29
+
+Expendiente Nro. 3986157 HORA: 9.1.52
+
+Expendiente Nro. 3988110 HORA: 9.2.12
+
+Expendiente Nro. 3978013 HORA: 9.2.36
+
+Expendiente Nro. 3978013 HORA: 9.2.59
+
+Expendiente Nro. 3988401 HORA: 9.3.22
+
+Expendiente Nro. 3983661 HORA: 9.3.47
+
+Expendiente Nro. 3982796 HORA: 9.4.9
+
+Expendiente Nro. 3982797 HORA: 9.4.34
+
+Expendiente Nro. 3982797 HORA: 9.4.55
+
+Expendiente Nro. 3990623 HORA: 9.5.16
+
+Expendiente Nro. 3989744 HORA: 9.5.38
+
+Expendiente Nro. 3989639 HORA: 9.6.4
+
+Expendiente Nro. 3989639 HORA: 9.6.30
+
+Expendiente Nro. 3994503 HORA: 9.6.56
+
+Expendiente Nro. 3994503 HORA: 9.7.20
+
+Expendiente Nro. 3990950 HORA: 9.7.44
+
+Expendiente Nro. 3992051 HORA: 9.8.9
+
+Expendiente Nro. 3990869 HORA: 9.8.36
+
+Expendiente Nro. 3986159 HORA: 9.9.1
+
+Expendiente Nro. 3986159 HORA: 9.9.32
+
+Expendiente Nro. 3989145 HORA: 9.9.59
+
+Expendiente Nro. 3989145 HORA: 9.10.27
+
+Expendiente Nro. 3990438 HORA: 9.10.52
+
+Expendiente Nro. 3984875 HORA: 9.11.19
+
+Expendiente Nro. 3984875 HORA: 9.11.46
+
+Expendiente Nro. 3988699 HORA: 9.12.8
+
+Expendiente Nro. 3988699 HORA: 9.12.35
+
+Expendiente Nro. 3988861 HORA: 9.13.3
+
+Expendiente Nro. 3988861 HORA: 9.13.33
+
+Expendiente Nro. 3991338 HORA: 9.14.1
+
+Expendiente Nro. 3991338 HORA: 9.14.32
+
+Expendiente Nro. 3941039 HORA: 9.14.56
+
+Expendiente Nro. 3941039 HORA: 9.15.24
+
+Expendiente Nro. 3992159 HORA: 9.15.50
+
+Expendiente Nro. 3972687 HORA: 9.16.17
+
+Expendiente Nro. 3978217 HORA: 9.16.50
+
+Expendiente Nro. 3978217 HORA: 9.17.16
+
+Expendiente Nro. 3963641 HORA: 9.17.43
+
+Expendiente Nro. 3963641 HORA: 9.18.12
+
+Expendiente Nro. 3988739 HORA: 9.18.40
+
+Expendiente Nro. 3991711 HORA: 9.19.7
+
+Expendiente Nro. 3991711 HORA: 9.19.31
+
+Expendiente Nro. 3978164 HORA: 9.19.56
+
+Expendiente Nro. 3978164 HORA: 9.20.25
+
+Expendiente Nro. 3960341 HORA: 9.20.52
+
+Expendiente Nro. 3960341 HORA: 9.21.17
+
+Expendiente Nro. 3975366 HORA: 9.21.39
+
+Expendiente Nro. 3975366 HORA: 9.22.4
+
+Expendiente Nro. 3991340 HORA: 9.22.27
+
+Expendiente Nro. 3993161 HORA: 9.22.53
+
+Expendiente Nro. 3993161 HORA: 9.23.19
+
+Expendiente Nro. 3987081 HORA: 9.23.45
+
+Expendiente Nro. 3987081 HORA: 9.24.11
+
+Expendiente Nro. 3989941 HORA: 9.24.36
+
+Expendiente Nro. 3989941 HORA: 9.25.0
+
+Expendiente Nro. 3987709 HORA: 9.25.25
+
+Expendiente Nro. 3987709 HORA: 9.25.48
+
+Expendiente Nro. 3992901 HORA: 9.26.11
+
+Expendiente Nro. 3992901 HORA: 9.26.37
+
+Expendiente Nro. 3993025 HORA: 9.27.1
+
+Expendiente Nro. 3993025 HORA: 9.27.28
+
+Expendiente Nro. 3961311 HORA: 9.27.54
+
+Expendiente Nro. 3997263 HORA: 9.28.22
+
+Expendiente Nro. 3980201 HORA: 9.28.49
+
+Expendiente Nro. 3980201 HORA: 9.29.15
+
+Expendiente Nro. 3993320 HORA: 9.29.36
+
+Expendiente Nro. 3989738 HORA: 9.30.3
+
+Expendiente Nro. 3998236 HORA: 9.30.29
+
+Expendiente Nro. 3998236 HORA: 9.30.55
+
+Expendiente Nro. 3998236 HORA: 9.31.20
+
+Expendiente Nro. 3981576 HORA: 9.31.46
+
+Expendiente Nro. 3981576 HORA: 9.32.11
+
+Expendiente Nro. 3959933 HORA: 9.32.36
+
+Expendiente Nro. 3993074 HORA: 9.33.4
+
+Expendiente Nro. 3993940 HORA: 9.33.28
+
+Expendiente Nro. 3970158 HORA: 9.33.51
+
+Expendiente Nro. 3995978 HORA: 9.34.17
+
+Expendiente Nro. 3997354 HORA: 9.34.40
+
+Expendiente Nro. 3997354 HORA: 9.35.4
+
+Expendiente Nro. 4003539 HORA: 9.35.28
+
+Expendiente Nro. 4003539 HORA: 9.35.56
+
+Expendiente Nro. 3995082 HORA: 9.36.21
+
+Expendiente Nro. 3995082 HORA: 9.36.46
+
+Expendiente Nro. 4000092 HORA: 9.37.11
+
+Expendiente Nro. 3971158 HORA: 9.37.37
+
+Expendiente Nro. 3899330 HORA: 9.38.3
+
+Expendiente Nro. 4003240 HORA: 9.38.28
+
+Expendiente Nro. 4000506 HORA: 9.38.54
+
+Expendiente Nro. 4000506 HORA: 9.39.18
+
+Expendiente Nro. 3996027 HORA: 9.39.42
+
+Expendiente Nro. 3996027 HORA: 9.40.2
+
+Expendiente Nro. 3991607 HORA: 9.40.23
+
+Expendiente Nro. 3995985 HORA: 9.40.46
+
+Expendiente Nro. 3995985 HORA: 9.41.9
+
+Expendiente Nro. 4001994 HORA: 9.41.31
+
+Expendiente Nro. 4001994 HORA: 9.41.54
+
+Expendiente Nro. 3989429 HORA: 9.42.17
+
+Expendiente Nro. 3999156 HORA: 9.42.43
+
+Expendiente Nro. 4003179 HORA: 9.43.9
+
+Expendiente Nro. 3999102 HORA: 9.43.35
+
+Expendiente Nro. 3996958 HORA: 9.44.1
+
+Consulta base de datos: 2022-08-19 12.23.00 / 2022-08-19 12.28.00 HORA: 12.33.10
+
+Casos encontrados: 118
+(('441224', '3738138', 'Se envía correo al cliente: paul.angulo@soletanche-bachy.pe, solicitando conformidad a los documentos enviados (aclaración cv y préstamo) y los pagos por DDNN y DDRR.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 15, 39, 36), '8'), ('457404', '2661713', 'INFORMAMOS QUE NOS ENCONTRAMOS TRABJAANDO EN LA ESCRITURA PUBLICA INSERTANDO LAS ULTIMAS MODIFICACIONES DEL CONTRATO DE PRESTAMO, ADICIONAL SE ENVIO CORREO A INMOBILIARIA PARA QUE INDIQUE CUANDO SERIA POSIBLE LA TOMA DE FIRMA.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 15, 51, 15), '8'), ('497517', '3998732', 'Llegó Cheque por el monto de S/.  241,600.00 con orden de retención de fecha 17/08/22.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 51, 46), '8'), ('497517', '3998732', 'INDCIAR QUE SE ESTA PROCEDIENDO CON LA CALIFICACION RESPECTIVA DE LA DOCUMENTACION REMITIDA POR INMOBILIARIA, ASIMISMO ESTA PENDIENTE PAGOS POR DERECHOS NOTARIALES, REGISTRALES , ESTADO DE CUENTA POR LA SUMA DE S/ 15,200.00.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 16, 33), '8'), ('504363', '3959977', 'Firmo: MONTENEGRO CORONEL JHON MERLING', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 17, 14), '8'), ('511059', '3981936', 'Firmo: CABALLERO FARRO MAURICIO JOSE en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 14, 28), '8'), ('511059', '3981936', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 15, 26), '8'), ('511931', '3978001', 'CLIENTE INDICO DISPONIBILIDAD PARA FIRMAR EEPP 19/08/2022 A LAS 04:30 PM', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 15, 3, 40), '8'), ('511988', '3973148', 'SE ENVÍA CORREO A CLIENTE SOLICITANDO DISPONIBILIDAD PARA FIRMA.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 9, 35, 55), '8'), ('511988', '3973148', 'Firmo: AGUAYO SEMINARIO  GERARDO BENJAMIN', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 30, 7), '8'), ('511988', '3973148', 'Firmo: AGÜERO OVIEDO  ERIKA FARAH', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 30, 57), '8'), ('512521', '3980320', 'Firmo: CABALLERO FARRO MAURICIO JOSE en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 5, 23), '8'), ('512521', '3980320', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 5, 56), '8'), ('512793', '3983581', 'CLIENTE CITADO PARA EL 19/08.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 14, 10, 29), '8'), ('512967', '3989768', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 16, 25, 31), '8'), ('514452', '3972534', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 3, 48), '8'), ('514452', '3972534', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 4, 22), '8'), ('514602', '3978653', 'Firmo: SALAZAR TELLO  LINDEY', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 31), '8'), ('514602', '3978653', 'Firmo: RUIZ TORRES  NANCY ELIZABETH', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 32, 9), '8'), ('514880', '3972518', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 45, 13), '8'), ('514880', '3972518', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 46, 8), '8'), ('514971', '3977569', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 48, 19), '8'), ('514971', '3977569', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 49, 8), '8'), ('515089', '3990438', 'PENDIENTE ABONOS DE LOS DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 38), '8'), ('515278', '3974679', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 15, 30), '8'), ('515278', '3974679', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 16, 16), '8'), ('515390', '3978311', 'ESTIMADOS CLIENTE SE ENCUENTRE CITADO PARA EL DIA VIERNES 19/08', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 9, 29, 13), '8'), ('515423', '3983281', 'Firmo: GUTARRA JARA GINO NICOLAS', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 40, 27), '8'), ('515466', '3987709', 'Firmo: VILCA ALANIA LUIS ENRIQUE', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 14, 3, 55), '8'), ('515481', '3981584', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 9, 13), '8'), ('515481', '3981584', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 10, 7), '8'), ('515515', '3738138', 'Se envía correo al cliente: paul.angulo@soletanche-bachy.pe, solicitando conformidad a los documentos enviados (aclaración cv y préstamo) y los pagos por DDNN y DDRR.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 15, 39, 36), '8'), ('515856', '3991601', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 56, 54), '8'), ('515856', '3991601', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 57, 28), '8'), ('515862', '3980745', 'INFORMAMOS QUE NO CONTAMOS CON LOS PAGOS CORRESPONDIENTES A NOTARIA', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 18, 36), '8'), ('516226', '3993191', 'Firmo: FUENTES HIDALGO BETSY LLANELY', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 16, 36, 39), '8'), ('516260', '3992910', 'CONTRATANTES FIRMARAN EP  MARTES 23/08 a las 4:00 PM (Hora exacta).', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 9, 38, 18), '8'), ('516513', '3964497', 'ESTIMADOS SRES. CIBERGESTIÓN, POR FAVOR ACLARAR SI EL VALORADO SE ENCUENTRA GIRADO CORRECTAMENTE, CONSIDERANDO LO INDICADO EN CARTA FIANZA.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 29, 30), '8'), ('516644', '3994387', 'Firmo: BOTTGER GARFIAS KARIN SUZANNE en representación de PIONERO 7 S.A.C.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 17, 20, 41), '8'), ('516851', '3991926', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 59, 2), '8'), ('516851', '3991926', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 59, 35), '8'), ('516853', '3998708', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 6, 49), '8'), ('516853', '3998708', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 7, 20), '8'), ('516857', '3996404', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 11, 52), '8'), ('516857', '3996404', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 12, 37), '8'), ('516899', '4001672', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de V Y V PROYECTO 60 S.A.C.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 49, 23), '8'), ('516899', '4001672', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de V Y V PROYECTO 60 S.A.C.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 50, 10), '8'), ('516917', '3989738', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de V Y V PROYECTO 60 S.A.C.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 52, 6), '8'), ('516917', '3989738', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de V Y V PROYECTO 60 S.A.C.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 52, 48), '8'), ('516955', '3994638', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 7, 35), '8'), ('516955', '3994638', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 9, 28), '8'), ('517107', '3987004', 'SE ENVIA CORREO A CLIENTE PROGRAMANDO FIRMA DE E.P', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 13, 8, 40), '8'), ('517134', '3973412', 'CLIENTE FIRMARA E.P EL DIA 19-08.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 17, 56, 28), '8'), ('517137', '3997028', 'CLIENTE CITADO PARA FIRMAR EEPP 19/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 14, 52, 8), '8'), ('517180', '3988145', 'ESTIMADOS SE HA ENVIADO PROYECTO DE ESCRITURA PUBLICA, ESTAMOS A LA ESPERA DE CONFORMIDAD POR PARTE DEL CLIENTE PARA AGENDAR CITA EN NOTARIA.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 47, 16), '8'), ('517183', '3993605', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 9, 57, 35), '8'), ('517183', '3993605', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 5, 30), '8'), ('517346', '3988759', 'Firmo: FLORES ALCALA YELINA VANESSA', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 15, 15, 30), '8'), ('517347', '3993147', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 12, 36), '8'), ('517347', '3993147', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 13, 28), '8'), ('517349', '3994628', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 0, 47), '8'), ('517349', '3994628', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 1, 19), '8'), ('517351', '3996459', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 28, 43), '8'), ('517351', '3996459', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 29, 24), '8'), ('517355', '3966962', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 2, 19), '8'), ('517355', '3966962', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 2, 50), '8'), ('517367', '3991639', 'SE SOLICITA A INMOBILIARIA ACLARAR FORMA DE PAGO A INMOBILIARIA.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 19, 20, 19), '8'), ('517396', '3995044', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 24, 6), '8'), ('517396', '3995044', 'Firmo: RIOS NORIEGA ELISA PIEDAD en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 25, 8), '8'), ('517399', '3990404', 'ESTIMADOS SE INFORMA QUE CLIENTE SE ENCUENTRA CITADO PARA EL DÍA 19/08.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 30, 27), '8'), ('517399', '3990404', 'ESTIMADOS SE INFORMA QUE CLIENTE SE ENCUENTRA CITADO PARA EL DÍA 19/08.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 54, 22), '8'), ('517401', '3994633', 'ESTIMADOS INFORMAMOS SE ENVIÓ PROYECTO DE ESCRITURA, QUEDA PENDIENTE LA CONFORMIDAD EXPRESA DEL MISMO PARA PROCEDER A CITAR.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 5, 47), '8'), ('517423', '3995936', 'Firmo: BOTTGER GARFIAS KARIN SUZANNE en representación de PIONERO 8 S.A.C.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 17, 24, 31), '8'), ('517492', '3995829', 'SE REITERA QUE SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y DERECHOS REGISTRALES.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 15, 33, 51), '8'), ('517585', '3994861', 'Firmo: GONZALES ESPEJO BRENDA JOHANA', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 17, 47, 42), '8'), ('517589', '4002395', 'SE ENVIA POR  CORREO PRORAMACION DE FIRMA DE FIRMA A CIENTE,.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 36, 40), '8'), ('517608', '3997061', 'ESTIMADOS INFORMAMOS QUE NO CONTAMOS CON LOS PAGOS CORRESPONDIENTES', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 9, 55), '8'), ('517612', '4001866', 'ESTIMADOS SE INDICA QUE PROCEDEREMOS A INSERTAR LA 5TA CLAUSULA ADICIONAL YA QUE INMOBILIARIA NOS ENVIO UNA CLAUSULA ANTERIOR Y SE TRABAJO CON ELLO.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 17, 42, 12), '8'), ('517632', '4001966', 'CLIENTE CITADO PARA EL 19/08.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 9, 56, 53), '8'), ('517704', '3995320', 'LOS CONTRATANTES FIRMARAN EP VIERNES 19/08 a las 11:00 AM (Hora exacta).', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 13, 1, 26), '8'), ('517725', '3948732', 'PENDIENTE ABONO DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 12, 52, 2), '8'), ('517761', '3994496', 'LOS CONTRATANTES FIRMARAN EP VIERNES 19/08 a las 5:00 PM (Hora exacta).', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 25, 38), '8'), ('517762', '3997976', 'Firmo: VASTAG MANCHEGO  JANET CARMELA', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 46, 27), '8'), ('517762', '3997976', 'Firmo: GIANNUZZI CORDANO DE ROSSI MARIA CAROLINA', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 53, 53), '8'), ('517820', '3999743', 'Firmo: FERNANDEZ TALISO CARMEN DEL ROSARIO', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 22, 33), '8'), ('517824', '4000230', 'INFORMAMOS SE ENVIÓ PROYECTO DE ESCRITURA, QUEDA PENDIENTE LA CONFORMIDAD EXPRESA DEL MISMO PARA PROCEDER A CITAR.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 12, 57), '8'), ('517870', '4002280', 'SE ENVIO CORREO CON CITA PARA EL LUNES 22/08 4.30 PM', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 14, 32, 18), '8'), ('518064', '3995473', 'Firmo: SANCHEZ CHACON LEZBIETH ELINA', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 54, 24), '8'), ('518106', '3985162', 'INMOBILIARIA REGULARIZA MINUTARIO', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 9, 1, 34), '8'), ('518231', '4000092', 'SUBSANARON OBSERVACIONES, SE ESTA LEVANTANDO E INSERTANDO ADENDA, EN EL TRANSCURSO DEL DIA SE ENVIARA PROYECTO DE EP.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 38, 45), '8'), ('518231', '4000092', 'ESTIMADOS INFORMAMOS SE ENVIÓ PROYECTO DE ESCRITURA, QUEDA PENDIENTE LA CONFORMIDAD EXPRESA DEL MISMO PARA PROCEDER A CITAR.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 17, 13, 41), '8'), ('518289', '3899330', 'Firmo: BOTTGER GARFIAS KARIN SUZANNE en representación de PIONERO 8 S.A.C.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 17, 27, 26), '8'), ('518314', '3997839', 'CONTRATANTES FIRMARAN EP VIERNES 19/08 a las 6:00 PM (Hora exacta).', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 15, 40, 44), '8'), ('518619', '4003485', 'ESTIMADOS SE INDICA QUE NO CONTAMOS CON LOS PAGOS DE DERECHOS CORRESPONDIENTES.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 11, 31), '8'), ('518631', '4002693', 'KARDEX: 518631  Derechos Notariales: 409.66  Derechos Registrales: 2625.00', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 27, 23), '8'), ('518631', '4002693', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 19, 33, 28), '8'), ('518658', '3989429', 'Firmo: FLORES DI LIBERTO GISELA PIERINA', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 16, 16, 17), '8'), ('518658', '3989429', 'Firmo: ZUÑIGA ALVAREZ  SANDRO SIMON', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 16, 18, 48), '8'), ('519152', '4000387', 'PENDIENTE CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 9, 2, 25), '8'), ('519235', '3979783', 'PENDIENTES:1.BLOQUEO INSCRITO.2. MINUTA DE CV ORIGINAL.3. HR/PU2022.4.ALCABALA.5. PAGOS NOT Y REGIST-COMPRADOR.6. EVIDENCIA INICIAL.7. CHEQUE RECURSOS PROPIOS X  US $44,000.00.8. CHEQUE RECURSOS PROPIOS X US$ 161.12 .', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 11, 50), '8'), ('519248', '3990464', 'KARDEX: 519248  Derechos Notariales: 1230.96  Derechos Registrales: 4008.00', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 19, 52), '8'), ('519251', '3984007', 'PENDIENTES:1. HR/ PU 2022 DPTO.2. ANEXO I Y II DE MINUTA.3.ANEXO I Y II  DE CLAUSULA A LA CV.4. AUTORIZACION DE ABOGADO EN MINUTA.5. CLAUSULA A LA CV  INDEPENDIZACION.6. CLAUSULA AL PRESTAMO INDEPENDIZACION.7. ALCABALA.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 14, 7, 53), '8'), ('519407', '4003014', 'Llegó Cheque por el monto de S/.  234,990.00 con orden de retención de fecha 17/08/22.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 50, 33), '8'), ('519416', '3999330', 'Llegó Desembolso por el monto de S/.  332,000.00 sin orden de retención de fecha 17/08/22.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 56, 47), '8'), ('519416', '3999330', 'LLEGÓ CERTIFICADO BANCARIO.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 57, 11), '8'), ('519418', '4005162', 'Llegó Cheque por el monto de S/.  833,625.00 con orden de retención de fecha 17/08/22.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 51, 9), '8'), ('519418', '4005162', 'SE ENCUENTRA PENDIENTE MINUTA DE COMPRAVENTA, MEDIOS DE PAGO DE CUOTA INICIAL Y CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 6, 20), '8'), ('519420', '3989540', 'Llegó Cheque por el monto de S/.  108,270.00 con orden de retención de fecha 17/08/22.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 53, 18), '8'), ('519420', '3989540', 'KARDEX: 519420  Derechos Notariales: 627.31  Derechos Registrales: 837.00', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 18, 31), '8'), ('519420', '3989540', 'ESTIMADOS SE INFORMA QUE NO CONTAMOS CON MINUTA DE COMPRAVENTA EN ORIGINAL.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 14, 23, 24), '8'), ('519421', '4002391', 'Llegó Cheque por el monto de S/.  261,460.00 con orden de retención de fecha 17/08/22.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 10, 49, 49), '8'), ('519421', '4002391', 'KARDEX: 519421  Derechos Notariales: 573.66  Derechos Registrales: 1764.00', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 11, 24, 5), '8'), ('519421', '4002391', 'ESTIMADOS SE INFORMA QUE NO CONTAMOS CON MINUTA DE COMPRAVENTA EN ORIGINAL.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 14, 34, 31), '8'), ('519425', '4002723', 'KARDEX: 519425  Derechos Notariales: 627.31  Derechos Registrales: 2368.00', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 49, 16), '8'), ('519550', '4004746', 'KARDEX: 519550  Derechos Notariales: 638.29  Derechos Registrales: 5201.00', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 16, 43, 49), '8'), ('519556', '3990692', 'PENDIENTE: MINUTA DE COMPRA VENTA EN ORIGINAL, CLAUSULA ADICIONAL EN ORIGINAL ( CON FIRMA DE TODOS LOS INTERVINIENTES Y AUTORIZACION DE ABOGADO), EVIDENCIAS DE CUOTA INCIIAL Y PAGOS POR DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 17, 48, 29), '8'), ('519556', '3990692', 'KARDEX: 519556  Derechos Notariales: 627.31  Derechos Registrales: 5972.00', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 23, 39), '8'), ('519559', '4003717', 'KARDEX: 519559  Derechos Notariales: 573.66  Derechos Registrales: 2212.00', datetime.date(2022, 8, 18), datetime.datetime(1000, 1, 1, 18, 46, 49), '8')) HORA: 12.33.10
+
+Expendiente Nro. 3738138 HORA: 12.33.22
+
+Expendiente Nro. 2661713 HORA: 12.33.42
+
+Expendiente Nro. 3998732 HORA: 12.34.0
+
+Expendiente Nro. 3998732 HORA: 12.34.21
+
+Expendiente Nro. 3959977 HORA: 12.34.40
+
+Expendiente Nro. 3981936 HORA: 12.34.58
+
+Expendiente Nro. 3981936 HORA: 12.35.16
+
+Expendiente Nro. 3978001 HORA: 12.35.35
+
+Expendiente Nro. 3973148 HORA: 12.35.57
+
+Expendiente Nro. 3973148 HORA: 12.36.18
+
+Expendiente Nro. 3973148 HORA: 12.36.38
+
+Expendiente Nro. 3980320 HORA: 12.37.0
+
+Expendiente Nro. 3980320 HORA: 12.37.19
+
+Expendiente Nro. 3983581 HORA: 12.37.38
+
+Expendiente Nro. 3989768 HORA: 12.37.57
+
+Expendiente Nro. 3972534 HORA: 12.38.17
+
+Expendiente Nro. 3972534 HORA: 12.38.34
+
+Expendiente Nro. 3978653 HORA: 12.38.52
+
+Expendiente Nro. 3978653 HORA: 12.39.10
+
+Expendiente Nro. 3972518 HORA: 12.39.28
+
+Expendiente Nro. 3972518 HORA: 12.39.47
+
+Expendiente Nro. 3977569 HORA: 12.40.6
+
+Expendiente Nro. 3977569 HORA: 12.40.26
+
+Expendiente Nro. 3990438 HORA: 12.40.44
+
+Expendiente Nro. 3974679 HORA: 12.41.3
+
+Expendiente Nro. 3974679 HORA: 12.41.21
+
+Expendiente Nro. 3978311 HORA: 12.41.41
+
+Expendiente Nro. 3983281 HORA: 12.42.1
+
+Expendiente Nro. 3987709 HORA: 12.42.17
+
+Expendiente Nro. 3981584 HORA: 12.42.37
+
+Expendiente Nro. 3981584 HORA: 12.42.55
+
+Expendiente Nro. 3738138 HORA: 12.43.14
+
+Expendiente Nro. 3991601 HORA: 12.43.31
+
+Expendiente Nro. 3991601 HORA: 12.43.51
+
+Expendiente Nro. 3980745 HORA: 12.44.8
+
+Expendiente Nro. 3993191 HORA: 12.44.26
+
+Expendiente Nro. 3992910 HORA: 12.44.46
+
+Expendiente Nro. 3964497 HORA: 12.45.8
+
+Expendiente Nro. 3994387 HORA: 12.45.26
+
+Expendiente Nro. 3991926 HORA: 12.45.47
+
+Expendiente Nro. 3991926 HORA: 12.46.3
+
+Expendiente Nro. 3998708 HORA: 12.46.20
+
+Expendiente Nro. 3998708 HORA: 12.46.40
+
+Expendiente Nro. 3996404 HORA: 12.46.58
+
+Expendiente Nro. 3996404 HORA: 12.47.18
+
+Expendiente Nro. 4001672 HORA: 12.47.38
+
+Expendiente Nro. 4001672 HORA: 12.47.55
+
+Expendiente Nro. 3989738 HORA: 12.48.12
+
+Expendiente Nro. 3989738 HORA: 12.48.36
+
+Expendiente Nro. 3994638 HORA: 12.48.57
+
+Expendiente Nro. 3994638 HORA: 12.49.18
+
+Expendiente Nro. 3987004 HORA: 12.49.38
+
+Expendiente Nro. 3973412 HORA: 12.49.56
+
+Expendiente Nro. 3997028 HORA: 12.50.13
+
+Expendiente Nro. 3988145 HORA: 12.50.31
+
+Expendiente Nro. 3993605 HORA: 12.50.53
+
+Expendiente Nro. 3993605 HORA: 12.51.12
+
+Expendiente Nro. 3988759 HORA: 12.51.30
+
+Expendiente Nro. 3993147 HORA: 12.51.50
+
+Expendiente Nro. 3993147 HORA: 12.52.10
+
+Expendiente Nro. 3994628 HORA: 12.52.29
+
+Expendiente Nro. 3994628 HORA: 12.52.51
+
+Expendiente Nro. 3996459 HORA: 12.53.13
+
+Expendiente Nro. 3996459 HORA: 12.53.33
+
+Expendiente Nro. 3966962 HORA: 12.53.52
+
+Expendiente Nro. 3966962 HORA: 12.54.11
+
+Expendiente Nro. 3991639 HORA: 12.54.30
+
+Expendiente Nro. 3995044 HORA: 12.54.51
+
+Expendiente Nro. 3995044 HORA: 12.55.11
+
+Expendiente Nro. 3990404 HORA: 12.55.30
+
+Expendiente Nro. 3990404 HORA: 12.55.52
+
+Expendiente Nro. 3994633 HORA: 12.56.12
+
+Expendiente Nro. 3995936 HORA: 12.56.29
+
+Expendiente Nro. 3995829 HORA: 12.56.51
+
+Expendiente Nro. 3994861 HORA: 12.57.8
+
+Expendiente Nro. 4002395 HORA: 12.57.25
+
+Expendiente Nro. 3997061 HORA: 12.57.43
+
+Expendiente Nro. 4001866 HORA: 12.58.0
+
+Expendiente Nro. 4001966 HORA: 12.58.17
+
+Expendiente Nro. 3995320 HORA: 12.58.39
+
+Expendiente Nro. 3948732 HORA: 12.59.1
+
+Expendiente Nro. 3994496 HORA: 12.59.22
+
+Expendiente Nro. 3997976 HORA: 12.59.43
+
+Expendiente Nro. 3997976 HORA: 13.0.4
+
+Expendiente Nro. 3999743 HORA: 13.0.25
+
+Expendiente Nro. 4000230 HORA: 13.0.44
+
+Expendiente Nro. 4002280 HORA: 13.1.5
+
+Expendiente Nro. 3995473 HORA: 13.1.26
+
+Expendiente Nro. 3985162 HORA: 13.1.49
+
+Expendiente Nro. 4000092 HORA: 13.2.12
+
+Expendiente Nro. 4000092 HORA: 13.2.35
+
+Expendiente Nro. 3899330 HORA: 13.2.58
+
+Expendiente Nro. 3997839 HORA: 13.3.21
+
+Expendiente Nro. 4003485 HORA: 13.3.45
+
+Expendiente Nro. 4002693 HORA: 13.4.6
+
+Expendiente Nro. 4002693 HORA: 13.4.29
+
+Expendiente Nro. 3989429 HORA: 13.4.51
+
+Expendiente Nro. 3989429 HORA: 13.5.18
+
+Expendiente Nro. 4000387 HORA: 13.5.43
+
+Expendiente Nro. 3979783 HORA: 13.6.7
+
+Expendiente Nro. 3990464 HORA: 13.6.32
+
+Expendiente Nro. 3984007 HORA: 13.6.56
+
+Expendiente Nro. 4003014 HORA: 13.7.17
+
+Expendiente Nro. 3999330 HORA: 13.7.36
+
+Expendiente Nro. 3999330 HORA: 13.7.56
+
+Expendiente Nro. 4005162 HORA: 13.8.14
+
+Expendiente Nro. 4005162 HORA: 13.8.42
+
+Expendiente Nro. 3989540 HORA: 13.9.7
+
+Expendiente Nro. 3989540 HORA: 13.9.32
+
+Expendiente Nro. 3989540 HORA: 13.9.55
+
+Expendiente Nro. 4002391 HORA: 13.10.19
+
+Expendiente Nro. 4002391 HORA: 13.10.38
+
+Expendiente Nro. 4002391 HORA: 13.10.56
+
+Expendiente Nro. 4002723 HORA: 13.11.13
+
+Expendiente Nro. 4004746 HORA: 13.11.37
+
+Expendiente Nro. 3990692 HORA: 13.12.1
+
+Expendiente Nro. 3990692 HORA: 13.12.21
+
+Expendiente Nro. 4003717 HORA: 13.12.39

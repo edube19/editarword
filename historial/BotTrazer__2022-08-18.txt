@@ -1,0 +1,830 @@
+BotTrazer__2022-08-18
+
+Consulta base de datos: 2022-08-18 08.53.00 / 2022-08-18 08.58.00 HORA: 9.3.35
+
+Casos encontrados: 71
+(('334440', '230058', 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('430778', '1593666', 'CLIENTA INDICA QUE SE APERSONARA A FIRMAR EEPP 18/08/2022 A LAS 04:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 11, 11), '8'), ('441441', None, 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('511549', '3977755', 'PENDIENTES:1. PAGOS NOT Y REGIST X LEV DE HIPOTECA BCP.2. MINUTA DE LEV DE HIPOTECA BCP VIGENTE. 3.RENTA.\t', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 58, 34), '8'), ('512521', '3980320', 'Firmo: PAREDES VILLACORTA FELIX BELISARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 30, 2), '8'), ('512521', '3980320', 'Firmo: FLORES TELLEZ ANGELA MARJORY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 12), '8'), ('514453', '3994948', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 30, 41), '8'), ('514453', '3994948', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 31, 9), '8'), ('514602', '3978653', 'CLIENTE FIRMARA E.P EL DIA 18.08.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 6, 51), '8'), ('514846', '3987051', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 23), '8'), ('514846', '3987051', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 5), '8'), ('515717', '3990752', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 29), '8'), ('515717', '3990752', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 57), '8'), ('515828', '3994654', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 3), '8'), ('515828', '3994654', 'Firmo: PINTO AHUMADA  MARCK CESAR en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 33), '8'), ('515856', '3991601', 'Firmo: AGUILAR MALHABER GISELLA SHIVELY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 0, 30), '8'), ('516688', '3987045', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 46, 42), '8'), ('516917', '3989738', 'Firmo: OLAYA LAINES DIEGO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 7, 54), '8'), ('517264', '3990430', 'Firmo: DEL ROSARIO MORA FELIX ANDREE', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 30, 30), '8'), ('517279', '3999059', 'CLIENTE CITADO PARA 18/08 A LAS 11:00 AM.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 20, 11), '8'), ('517355', '3966962', 'Firmo: CARRION GARCIA JUAN PABLO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 42, 29), '8'), ('517451', '3999258', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 8), '8'), ('517451', '3999258', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 37), '8'), ('517492', '3995829', 'Llegó Cheque por el monto de S/.  443,900.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 16, 30), '8'), ('517519', '3959933', 'KARDEX: 517519  Derechos Notariales: 623.65  Derechos Registrales: 3312.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 41, 40), '8'), ('517520', '3995827', 'Firmo: QUIROZ RIVADENEYRA JACKELINE ELIZABETH', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 33, 55), '8'), ('517520', '3995827', 'Firmo: TAVARA GUERRERO RENATO ADRIAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 34, 43), '8'), ('517535', '4000105', 'KARDEX: 517535  Derechos Notariales: 577.32  Derechos Registrales: 2550.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 48), '8'), ('517555', '4002041', 'KARDEX: 517555  Derechos Notariales: 577.32  Derechos Registrales: 1404.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 34, 19), '8'), ('517578', '3998753', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 20, 38), '8'), ('517578', '3998753', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 21, 23), '8'), ('517595', '3996093', 'PENDIENTE ABONOS DE LOS DERCHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 26, 10), '8'), ('517645', '3994738', 'SE ENVÍA CORREO A CLIENTE SOLICITANDO DISPONIBILIDAD PARA AGENDAR FIRMA DE ESCRITURA PÚBLICA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 45, 18), '8'), ('517756', '3998465', 'KARDEX: 517756  Derechos Notariales: 577.32  Derechos Registrales: 1153.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 42, 19), '8'), ('517760', '3991113', 'ESTIMADOS SE HA ENVIADO PROYECTO DE ESCRITURA PUBLICA, ESTAMOS A LA ESPERA DE CONFORMIDAD POR PARTE DEL CLIENTE PARA AGENDAR CITA EN NOTARIA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 28, 34), '8'), ('517819', '3998739', 'KARDEX: 517819  Derechos Notariales: 573.66  Derechos Registrales: 772.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 54, 44), '8'), ('517823', '3999135', 'KARDEX: 517823  Derechos Notariales: 573.66  Derechos Registrales: 1127.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 56, 1), '8'), ('517824', '4000230', 'KARDEX: 517824  Derechos Notariales: 573.66  Derechos Registrales: 1625.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 46, 32), '8'), ('517868', '3994648', 'KARDEX: 517868  Derechos Notariales: 573.66  Derechos Registrales: 1691.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 45, 20), '8'), ('518009', '4000213', 'Firmo: RODRIGUEZ ORELLANA SERGIO ESTEBAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 47, 37), '8'), ('518020', '3995534', 'KARDEX: 518020  Derechos Notariales: 627.31  Derechos Registrales: 3084.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 42), '8'), ('518042', '3988572', 'KARDEX: 518042  Derechos Notariales: 573.66  Derechos Registrales: 1522.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 40, 29), '8'), ('518042', '3988572', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 18), '8'), ('518057', '4003539', 'Firmo: HUARCAYA RODRIGUEZ  EDGAR', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 23, 42), '8'), ('518057', '4003539', 'Firmo: QUISPE TAIPE AUREA MARIA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 10), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO FERNANDO EUGENIO en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 48), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO CECILIA ESTELA JULIA en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 26, 3), '8'), ('518065', '3998746', 'KARDEX: 518065  Derechos Notariales: 573.66  Derechos Registrales: 1654.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 35, 34), '8'), ('518588', '3991607', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 3, 5), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de US$  558,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 24, 14), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de S/.   90,396.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 25, 8), '8'), ('518735', '3999102', 'PENDIENTES:1.  MINUTA DE CV ORIGINAL.2. RENTA.3. ALCABALA.4. PREDIAL.5. LEV DE HIPOTECA BCP ORIGINAL Y PAGOS X EL MISMO-VENDEDOR.6. PAGOS NOT Y REGIST-COMPRADOR.7. EVIDENCIA INICIAL', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 30, 33), '8'), ('518903', '3988457', 'Llegó Cheque por el monto de US$  115,384.62 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 20, 57), '8'), ('518910', '3998522', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 41, 44), '8'), ('518910', '3998522', 'SE PROCEDE A FACTURAR DERECHOS NOTARIALES Y REGISTRALES. POR FAVOR SU APOYO CON LOS MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 55, 23), '8'), ('518933', '3999420', 'PENDIENTE: 1.MINUTA ORIGINAL 2. RECIBO DE PREDIAL Y CONSTANCIA DE NO ADEUDO. 3. RENTA 4.ALCABALA 5.MEDIO DE PAGO INICIAL 6.CHEQUE DE DESEMBOLSO 7.INSCRIPCION DE BLOQUEO.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 48, 49), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de S/.   42,165.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 17, 36), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de US$   90,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 25), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 56), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 22, 50), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de S/.   23,985.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 23, 39), '8'), ('519144', '3998183', 'KARDEX: 519144  Derechos Notariales: 580.97  Derechos Registrales: 1148.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 42, 52), '8'), ('519152', '4000387', 'KARDEX: 519152  Derechos Notariales: 623.65  Derechos Registrales: 2023.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 40, 59), '8'), ('519152', '4000387', 'Llegó Cheque por el monto de S/.  346,477.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 15, 16), '8'), ('519155', '4002222', 'KARDEX: 519155  Derechos Notariales: 572.01  Derechos Registrales: 1597.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 41, 47), '8'), ('519176', '4002148', 'KARDEX: 519176  Derechos Notariales: 622.00  Derechos Registrales: 5396.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 24, 33), '8'), ('519235', '3979783', 'KARDEX: 519235  Derechos Notariales: 634.63  Derechos Registrales: 2602.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 44, 52), '8'), ('519235', '3979783', 'Llegó Cheque por el monto de US$   62,838.88 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 2, 18), '8'), ('519251', '3984007', 'KARDEX: 519251  Derechos Notariales: 573.66  Derechos Registrales: 1217.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 23, 50), '8'), ('519251', '3984007', 'Llegó Desembolso por el monto de S/.  167,750.00 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 3, 36), '8'), ('519251', '3984007', 'LLEGÓ CERTIFICADO BANCARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 4, 8), '8')) HORA: 9.3.35
+
+Expendiente Nro. 230058 HORA: 9.3.48
+
+Consulta base de datos: 2022-08-18 08.57.00 / 2022-08-18 09.02.00 HORA: 9.7.40
+
+Casos encontrados: 71
+(('334440', '230058', 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('430778', '1593666', 'CLIENTA INDICA QUE SE APERSONARA A FIRMAR EEPP 18/08/2022 A LAS 04:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 11, 11), '8'), ('441441', None, 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('511549', '3977755', 'PENDIENTES:1. PAGOS NOT Y REGIST X LEV DE HIPOTECA BCP.2. MINUTA DE LEV DE HIPOTECA BCP VIGENTE. 3.RENTA.\t', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 58, 34), '8'), ('512521', '3980320', 'Firmo: PAREDES VILLACORTA FELIX BELISARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 30, 2), '8'), ('512521', '3980320', 'Firmo: FLORES TELLEZ ANGELA MARJORY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 12), '8'), ('514453', '3994948', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 30, 41), '8'), ('514453', '3994948', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 31, 9), '8'), ('514602', '3978653', 'CLIENTE FIRMARA E.P EL DIA 18.08.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 6, 51), '8'), ('514846', '3987051', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 23), '8'), ('514846', '3987051', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 5), '8'), ('515717', '3990752', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 29), '8'), ('515717', '3990752', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 57), '8'), ('515828', '3994654', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 3), '8'), ('515828', '3994654', 'Firmo: PINTO AHUMADA  MARCK CESAR en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 33), '8'), ('515856', '3991601', 'Firmo: AGUILAR MALHABER GISELLA SHIVELY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 0, 30), '8'), ('516688', '3987045', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 46, 42), '8'), ('516917', '3989738', 'Firmo: OLAYA LAINES DIEGO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 7, 54), '8'), ('517264', '3990430', 'Firmo: DEL ROSARIO MORA FELIX ANDREE', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 30, 30), '8'), ('517279', '3999059', 'CLIENTE CITADO PARA 18/08 A LAS 11:00 AM.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 20, 11), '8'), ('517355', '3966962', 'Firmo: CARRION GARCIA JUAN PABLO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 42, 29), '8'), ('517451', '3999258', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 8), '8'), ('517451', '3999258', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 37), '8'), ('517492', '3995829', 'Llegó Cheque por el monto de S/.  443,900.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 16, 30), '8'), ('517519', '3959933', 'KARDEX: 517519  Derechos Notariales: 623.65  Derechos Registrales: 3312.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 41, 40), '8'), ('517520', '3995827', 'Firmo: QUIROZ RIVADENEYRA JACKELINE ELIZABETH', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 33, 55), '8'), ('517520', '3995827', 'Firmo: TAVARA GUERRERO RENATO ADRIAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 34, 43), '8'), ('517535', '4000105', 'KARDEX: 517535  Derechos Notariales: 577.32  Derechos Registrales: 2550.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 48), '8'), ('517555', '4002041', 'KARDEX: 517555  Derechos Notariales: 577.32  Derechos Registrales: 1404.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 34, 19), '8'), ('517578', '3998753', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 20, 38), '8'), ('517578', '3998753', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 21, 23), '8'), ('517595', '3996093', 'PENDIENTE ABONOS DE LOS DERCHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 26, 10), '8'), ('517645', '3994738', 'SE ENVÍA CORREO A CLIENTE SOLICITANDO DISPONIBILIDAD PARA AGENDAR FIRMA DE ESCRITURA PÚBLICA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 45, 18), '8'), ('517756', '3998465', 'KARDEX: 517756  Derechos Notariales: 577.32  Derechos Registrales: 1153.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 42, 19), '8'), ('517760', '3991113', 'ESTIMADOS SE HA ENVIADO PROYECTO DE ESCRITURA PUBLICA, ESTAMOS A LA ESPERA DE CONFORMIDAD POR PARTE DEL CLIENTE PARA AGENDAR CITA EN NOTARIA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 28, 34), '8'), ('517819', '3998739', 'KARDEX: 517819  Derechos Notariales: 573.66  Derechos Registrales: 772.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 54, 44), '8'), ('517823', '3999135', 'KARDEX: 517823  Derechos Notariales: 573.66  Derechos Registrales: 1127.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 56, 1), '8'), ('517824', '4000230', 'KARDEX: 517824  Derechos Notariales: 573.66  Derechos Registrales: 1625.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 46, 32), '8'), ('517868', '3994648', 'KARDEX: 517868  Derechos Notariales: 573.66  Derechos Registrales: 1691.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 45, 20), '8'), ('518009', '4000213', 'Firmo: RODRIGUEZ ORELLANA SERGIO ESTEBAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 47, 37), '8'), ('518020', '3995534', 'KARDEX: 518020  Derechos Notariales: 627.31  Derechos Registrales: 3084.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 42), '8'), ('518042', '3988572', 'KARDEX: 518042  Derechos Notariales: 573.66  Derechos Registrales: 1522.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 40, 29), '8'), ('518042', '3988572', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 18), '8'), ('518057', '4003539', 'Firmo: HUARCAYA RODRIGUEZ  EDGAR', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 23, 42), '8'), ('518057', '4003539', 'Firmo: QUISPE TAIPE AUREA MARIA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 10), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO FERNANDO EUGENIO en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 48), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO CECILIA ESTELA JULIA en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 26, 3), '8'), ('518065', '3998746', 'KARDEX: 518065  Derechos Notariales: 573.66  Derechos Registrales: 1654.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 35, 34), '8'), ('518588', '3991607', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 3, 5), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de US$  558,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 24, 14), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de S/.   90,396.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 25, 8), '8'), ('518735', '3999102', 'PENDIENTES:1.  MINUTA DE CV ORIGINAL.2. RENTA.3. ALCABALA.4. PREDIAL.5. LEV DE HIPOTECA BCP ORIGINAL Y PAGOS X EL MISMO-VENDEDOR.6. PAGOS NOT Y REGIST-COMPRADOR.7. EVIDENCIA INICIAL', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 30, 33), '8'), ('518903', '3988457', 'Llegó Cheque por el monto de US$  115,384.62 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 20, 57), '8'), ('518910', '3998522', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 41, 44), '8'), ('518910', '3998522', 'SE PROCEDE A FACTURAR DERECHOS NOTARIALES Y REGISTRALES. POR FAVOR SU APOYO CON LOS MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 55, 23), '8'), ('518933', '3999420', 'PENDIENTE: 1.MINUTA ORIGINAL 2. RECIBO DE PREDIAL Y CONSTANCIA DE NO ADEUDO. 3. RENTA 4.ALCABALA 5.MEDIO DE PAGO INICIAL 6.CHEQUE DE DESEMBOLSO 7.INSCRIPCION DE BLOQUEO.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 48, 49), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de S/.   42,165.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 17, 36), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de US$   90,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 25), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 56), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 22, 50), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de S/.   23,985.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 23, 39), '8'), ('519144', '3998183', 'KARDEX: 519144  Derechos Notariales: 580.97  Derechos Registrales: 1148.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 42, 52), '8'), ('519152', '4000387', 'KARDEX: 519152  Derechos Notariales: 623.65  Derechos Registrales: 2023.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 40, 59), '8'), ('519152', '4000387', 'Llegó Cheque por el monto de S/.  346,477.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 15, 16), '8'), ('519155', '4002222', 'KARDEX: 519155  Derechos Notariales: 572.01  Derechos Registrales: 1597.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 41, 47), '8'), ('519176', '4002148', 'KARDEX: 519176  Derechos Notariales: 622.00  Derechos Registrales: 5396.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 24, 33), '8'), ('519235', '3979783', 'KARDEX: 519235  Derechos Notariales: 634.63  Derechos Registrales: 2602.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 44, 52), '8'), ('519235', '3979783', 'Llegó Cheque por el monto de US$   62,838.88 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 2, 18), '8'), ('519251', '3984007', 'KARDEX: 519251  Derechos Notariales: 573.66  Derechos Registrales: 1217.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 23, 50), '8'), ('519251', '3984007', 'Llegó Desembolso por el monto de S/.  167,750.00 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 3, 36), '8'), ('519251', '3984007', 'LLEGÓ CERTIFICADO BANCARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 4, 8), '8')) HORA: 9.7.40
+
+Expendiente Nro. 230058 HORA: 9.8.10
+
+Expendiente Nro. 1593666 HORA: 9.8.26
+
+Consulta base de datos: 2022-08-18 09.18.00 / 2022-08-18 09.23.00 HORA: 9.28.13
+
+Casos encontrados: 71
+(('334440', '230058', 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('430778', '1593666', 'CLIENTA INDICA QUE SE APERSONARA A FIRMAR EEPP 18/08/2022 A LAS 04:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 11, 11), '8'), ('441441', None, 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('511549', '3977755', 'PENDIENTES:1. PAGOS NOT Y REGIST X LEV DE HIPOTECA BCP.2. MINUTA DE LEV DE HIPOTECA BCP VIGENTE. 3.RENTA.\t', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 58, 34), '8'), ('512521', '3980320', 'Firmo: PAREDES VILLACORTA FELIX BELISARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 30, 2), '8'), ('512521', '3980320', 'Firmo: FLORES TELLEZ ANGELA MARJORY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 12), '8'), ('514453', '3994948', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 30, 41), '8'), ('514453', '3994948', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 31, 9), '8'), ('514602', '3978653', 'CLIENTE FIRMARA E.P EL DIA 18.08.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 6, 51), '8'), ('514846', '3987051', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 23), '8'), ('514846', '3987051', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 5), '8'), ('515717', '3990752', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 29), '8'), ('515717', '3990752', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 57), '8'), ('515828', '3994654', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 3), '8'), ('515828', '3994654', 'Firmo: PINTO AHUMADA  MARCK CESAR en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 33), '8'), ('515856', '3991601', 'Firmo: AGUILAR MALHABER GISELLA SHIVELY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 0, 30), '8'), ('516688', '3987045', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 46, 42), '8'), ('516917', '3989738', 'Firmo: OLAYA LAINES DIEGO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 7, 54), '8'), ('517264', '3990430', 'Firmo: DEL ROSARIO MORA FELIX ANDREE', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 30, 30), '8'), ('517279', '3999059', 'CLIENTE CITADO PARA 18/08 A LAS 11:00 AM.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 20, 11), '8'), ('517355', '3966962', 'Firmo: CARRION GARCIA JUAN PABLO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 42, 29), '8'), ('517451', '3999258', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 8), '8'), ('517451', '3999258', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 37), '8'), ('517492', '3995829', 'Llegó Cheque por el monto de S/.  443,900.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 16, 30), '8'), ('517519', '3959933', 'KARDEX: 517519  Derechos Notariales: 623.65  Derechos Registrales: 3312.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 41, 40), '8'), ('517520', '3995827', 'Firmo: QUIROZ RIVADENEYRA JACKELINE ELIZABETH', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 33, 55), '8'), ('517520', '3995827', 'Firmo: TAVARA GUERRERO RENATO ADRIAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 34, 43), '8'), ('517535', '4000105', 'KARDEX: 517535  Derechos Notariales: 577.32  Derechos Registrales: 2550.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 48), '8'), ('517555', '4002041', 'KARDEX: 517555  Derechos Notariales: 577.32  Derechos Registrales: 1404.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 34, 19), '8'), ('517578', '3998753', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 20, 38), '8'), ('517578', '3998753', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 21, 23), '8'), ('517595', '3996093', 'PENDIENTE ABONOS DE LOS DERCHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 26, 10), '8'), ('517645', '3994738', 'SE ENVÍA CORREO A CLIENTE SOLICITANDO DISPONIBILIDAD PARA AGENDAR FIRMA DE ESCRITURA PÚBLICA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 45, 18), '8'), ('517756', '3998465', 'KARDEX: 517756  Derechos Notariales: 577.32  Derechos Registrales: 1153.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 42, 19), '8'), ('517760', '3991113', 'ESTIMADOS SE HA ENVIADO PROYECTO DE ESCRITURA PUBLICA, ESTAMOS A LA ESPERA DE CONFORMIDAD POR PARTE DEL CLIENTE PARA AGENDAR CITA EN NOTARIA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 28, 34), '8'), ('517819', '3998739', 'KARDEX: 517819  Derechos Notariales: 573.66  Derechos Registrales: 772.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 54, 44), '8'), ('517823', '3999135', 'KARDEX: 517823  Derechos Notariales: 573.66  Derechos Registrales: 1127.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 56, 1), '8'), ('517824', '4000230', 'KARDEX: 517824  Derechos Notariales: 573.66  Derechos Registrales: 1625.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 46, 32), '8'), ('517868', '3994648', 'KARDEX: 517868  Derechos Notariales: 573.66  Derechos Registrales: 1691.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 45, 20), '8'), ('518009', '4000213', 'Firmo: RODRIGUEZ ORELLANA SERGIO ESTEBAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 47, 37), '8'), ('518020', '3995534', 'KARDEX: 518020  Derechos Notariales: 627.31  Derechos Registrales: 3084.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 42), '8'), ('518042', '3988572', 'KARDEX: 518042  Derechos Notariales: 573.66  Derechos Registrales: 1522.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 40, 29), '8'), ('518042', '3988572', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 18), '8'), ('518057', '4003539', 'Firmo: HUARCAYA RODRIGUEZ  EDGAR', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 23, 42), '8'), ('518057', '4003539', 'Firmo: QUISPE TAIPE AUREA MARIA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 10), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO FERNANDO EUGENIO en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 48), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO CECILIA ESTELA JULIA en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 26, 3), '8'), ('518065', '3998746', 'KARDEX: 518065  Derechos Notariales: 573.66  Derechos Registrales: 1654.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 35, 34), '8'), ('518588', '3991607', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 3, 5), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de US$  558,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 24, 14), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de S/.   90,396.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 25, 8), '8'), ('518735', '3999102', 'PENDIENTES:1.  MINUTA DE CV ORIGINAL.2. RENTA.3. ALCABALA.4. PREDIAL.5. LEV DE HIPOTECA BCP ORIGINAL Y PAGOS X EL MISMO-VENDEDOR.6. PAGOS NOT Y REGIST-COMPRADOR.7. EVIDENCIA INICIAL', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 30, 33), '8'), ('518903', '3988457', 'Llegó Cheque por el monto de US$  115,384.62 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 20, 57), '8'), ('518910', '3998522', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 41, 44), '8'), ('518910', '3998522', 'SE PROCEDE A FACTURAR DERECHOS NOTARIALES Y REGISTRALES. POR FAVOR SU APOYO CON LOS MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 55, 23), '8'), ('518933', '3999420', 'PENDIENTE: 1.MINUTA ORIGINAL 2. RECIBO DE PREDIAL Y CONSTANCIA DE NO ADEUDO. 3. RENTA 4.ALCABALA 5.MEDIO DE PAGO INICIAL 6.CHEQUE DE DESEMBOLSO 7.INSCRIPCION DE BLOQUEO.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 48, 49), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de S/.   42,165.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 17, 36), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de US$   90,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 25), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 56), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 22, 50), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de S/.   23,985.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 23, 39), '8'), ('519144', '3998183', 'KARDEX: 519144  Derechos Notariales: 580.97  Derechos Registrales: 1148.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 42, 52), '8'), ('519152', '4000387', 'KARDEX: 519152  Derechos Notariales: 623.65  Derechos Registrales: 2023.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 40, 59), '8'), ('519152', '4000387', 'Llegó Cheque por el monto de S/.  346,477.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 15, 16), '8'), ('519155', '4002222', 'KARDEX: 519155  Derechos Notariales: 572.01  Derechos Registrales: 1597.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 41, 47), '8'), ('519176', '4002148', 'KARDEX: 519176  Derechos Notariales: 622.00  Derechos Registrales: 5396.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 24, 33), '8'), ('519235', '3979783', 'KARDEX: 519235  Derechos Notariales: 634.63  Derechos Registrales: 2602.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 44, 52), '8'), ('519235', '3979783', 'Llegó Cheque por el monto de US$   62,838.88 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 2, 18), '8'), ('519251', '3984007', 'KARDEX: 519251  Derechos Notariales: 573.66  Derechos Registrales: 1217.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 23, 50), '8'), ('519251', '3984007', 'Llegó Desembolso por el monto de S/.  167,750.00 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 3, 36), '8'), ('519251', '3984007', 'LLEGÓ CERTIFICADO BANCARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 4, 8), '8')) HORA: 9.28.13
+
+Expendiente Nro. 230058 HORA: 9.28.20
+
+Expendiente Nro. 1593666 HORA: 9.28.37
+
+Consulta base de datos: 2022-08-18 09.20.00 / 2022-08-18 09.25.00 HORA: 9.30.14
+
+Casos encontrados: 71
+(('334440', '230058', 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('430778', '1593666', 'CLIENTA INDICA QUE SE APERSONARA A FIRMAR EEPP 18/08/2022 A LAS 04:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 11, 11), '8'), ('441441', None, 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('511549', '3977755', 'PENDIENTES:1. PAGOS NOT Y REGIST X LEV DE HIPOTECA BCP.2. MINUTA DE LEV DE HIPOTECA BCP VIGENTE. 3.RENTA.\t', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 58, 34), '8'), ('512521', '3980320', 'Firmo: PAREDES VILLACORTA FELIX BELISARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 30, 2), '8'), ('512521', '3980320', 'Firmo: FLORES TELLEZ ANGELA MARJORY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 12), '8'), ('514453', '3994948', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 30, 41), '8'), ('514453', '3994948', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 31, 9), '8'), ('514602', '3978653', 'CLIENTE FIRMARA E.P EL DIA 18.08.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 6, 51), '8'), ('514846', '3987051', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 23), '8'), ('514846', '3987051', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 5), '8'), ('515717', '3990752', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 29), '8'), ('515717', '3990752', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 57), '8'), ('515828', '3994654', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 3), '8'), ('515828', '3994654', 'Firmo: PINTO AHUMADA  MARCK CESAR en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 33), '8'), ('515856', '3991601', 'Firmo: AGUILAR MALHABER GISELLA SHIVELY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 0, 30), '8'), ('516688', '3987045', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 46, 42), '8'), ('516917', '3989738', 'Firmo: OLAYA LAINES DIEGO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 7, 54), '8'), ('517264', '3990430', 'Firmo: DEL ROSARIO MORA FELIX ANDREE', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 30, 30), '8'), ('517279', '3999059', 'CLIENTE CITADO PARA 18/08 A LAS 11:00 AM.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 20, 11), '8'), ('517355', '3966962', 'Firmo: CARRION GARCIA JUAN PABLO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 42, 29), '8'), ('517451', '3999258', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 8), '8'), ('517451', '3999258', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 37), '8'), ('517492', '3995829', 'Llegó Cheque por el monto de S/.  443,900.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 16, 30), '8'), ('517519', '3959933', 'KARDEX: 517519  Derechos Notariales: 623.65  Derechos Registrales: 3312.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 41, 40), '8'), ('517520', '3995827', 'Firmo: QUIROZ RIVADENEYRA JACKELINE ELIZABETH', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 33, 55), '8'), ('517520', '3995827', 'Firmo: TAVARA GUERRERO RENATO ADRIAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 34, 43), '8'), ('517535', '4000105', 'KARDEX: 517535  Derechos Notariales: 577.32  Derechos Registrales: 2550.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 48), '8'), ('517555', '4002041', 'KARDEX: 517555  Derechos Notariales: 577.32  Derechos Registrales: 1404.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 34, 19), '8'), ('517578', '3998753', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 20, 38), '8'), ('517578', '3998753', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 21, 23), '8'), ('517595', '3996093', 'PENDIENTE ABONOS DE LOS DERCHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 26, 10), '8'), ('517645', '3994738', 'SE ENVÍA CORREO A CLIENTE SOLICITANDO DISPONIBILIDAD PARA AGENDAR FIRMA DE ESCRITURA PÚBLICA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 45, 18), '8'), ('517756', '3998465', 'KARDEX: 517756  Derechos Notariales: 577.32  Derechos Registrales: 1153.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 42, 19), '8'), ('517760', '3991113', 'ESTIMADOS SE HA ENVIADO PROYECTO DE ESCRITURA PUBLICA, ESTAMOS A LA ESPERA DE CONFORMIDAD POR PARTE DEL CLIENTE PARA AGENDAR CITA EN NOTARIA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 28, 34), '8'), ('517819', '3998739', 'KARDEX: 517819  Derechos Notariales: 573.66  Derechos Registrales: 772.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 54, 44), '8'), ('517823', '3999135', 'KARDEX: 517823  Derechos Notariales: 573.66  Derechos Registrales: 1127.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 56, 1), '8'), ('517824', '4000230', 'KARDEX: 517824  Derechos Notariales: 573.66  Derechos Registrales: 1625.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 46, 32), '8'), ('517868', '3994648', 'KARDEX: 517868  Derechos Notariales: 573.66  Derechos Registrales: 1691.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 45, 20), '8'), ('518009', '4000213', 'Firmo: RODRIGUEZ ORELLANA SERGIO ESTEBAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 47, 37), '8'), ('518020', '3995534', 'KARDEX: 518020  Derechos Notariales: 627.31  Derechos Registrales: 3084.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 42), '8'), ('518042', '3988572', 'KARDEX: 518042  Derechos Notariales: 573.66  Derechos Registrales: 1522.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 40, 29), '8'), ('518042', '3988572', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 18), '8'), ('518057', '4003539', 'Firmo: HUARCAYA RODRIGUEZ  EDGAR', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 23, 42), '8'), ('518057', '4003539', 'Firmo: QUISPE TAIPE AUREA MARIA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 10), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO FERNANDO EUGENIO en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 48), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO CECILIA ESTELA JULIA en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 26, 3), '8'), ('518065', '3998746', 'KARDEX: 518065  Derechos Notariales: 573.66  Derechos Registrales: 1654.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 35, 34), '8'), ('518588', '3991607', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 3, 5), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de US$  558,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 24, 14), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de S/.   90,396.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 25, 8), '8'), ('518735', '3999102', 'PENDIENTES:1.  MINUTA DE CV ORIGINAL.2. RENTA.3. ALCABALA.4. PREDIAL.5. LEV DE HIPOTECA BCP ORIGINAL Y PAGOS X EL MISMO-VENDEDOR.6. PAGOS NOT Y REGIST-COMPRADOR.7. EVIDENCIA INICIAL', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 30, 33), '8'), ('518903', '3988457', 'Llegó Cheque por el monto de US$  115,384.62 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 20, 57), '8'), ('518910', '3998522', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 41, 44), '8'), ('518910', '3998522', 'SE PROCEDE A FACTURAR DERECHOS NOTARIALES Y REGISTRALES. POR FAVOR SU APOYO CON LOS MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 55, 23), '8'), ('518933', '3999420', 'PENDIENTE: 1.MINUTA ORIGINAL 2. RECIBO DE PREDIAL Y CONSTANCIA DE NO ADEUDO. 3. RENTA 4.ALCABALA 5.MEDIO DE PAGO INICIAL 6.CHEQUE DE DESEMBOLSO 7.INSCRIPCION DE BLOQUEO.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 48, 49), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de S/.   42,165.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 17, 36), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de US$   90,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 25), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 56), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 22, 50), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de S/.   23,985.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 23, 39), '8'), ('519144', '3998183', 'KARDEX: 519144  Derechos Notariales: 580.97  Derechos Registrales: 1148.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 42, 52), '8'), ('519152', '4000387', 'KARDEX: 519152  Derechos Notariales: 623.65  Derechos Registrales: 2023.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 40, 59), '8'), ('519152', '4000387', 'Llegó Cheque por el monto de S/.  346,477.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 15, 16), '8'), ('519155', '4002222', 'KARDEX: 519155  Derechos Notariales: 572.01  Derechos Registrales: 1597.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 41, 47), '8'), ('519176', '4002148', 'KARDEX: 519176  Derechos Notariales: 622.00  Derechos Registrales: 5396.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 24, 33), '8'), ('519235', '3979783', 'KARDEX: 519235  Derechos Notariales: 634.63  Derechos Registrales: 2602.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 44, 52), '8'), ('519235', '3979783', 'Llegó Cheque por el monto de US$   62,838.88 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 2, 18), '8'), ('519251', '3984007', 'KARDEX: 519251  Derechos Notariales: 573.66  Derechos Registrales: 1217.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 23, 50), '8'), ('519251', '3984007', 'Llegó Desembolso por el monto de S/.  167,750.00 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 3, 36), '8'), ('519251', '3984007', 'LLEGÓ CERTIFICADO BANCARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 4, 8), '8')) HORA: 9.30.14
+
+Expendiente Nro. 230058 HORA: 9.30.23
+
+Expendiente Nro. 1593666 HORA: 9.30.41
+
+Consulta base de datos: 2022-08-18 10.07.00 / 2022-08-18 10.12.00 HORA: 10.17.52
+
+Casos encontrados: 71
+(('334440', '230058', 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('430778', '1593666', 'CLIENTA INDICA QUE SE APERSONARA A FIRMAR EEPP 18/08/2022 A LAS 04:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 11, 11), '8'), ('441441', None, 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('511549', '3977755', 'PENDIENTES:1. PAGOS NOT Y REGIST X LEV DE HIPOTECA BCP.2. MINUTA DE LEV DE HIPOTECA BCP VIGENTE. 3.RENTA.\t', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 58, 34), '8'), ('512521', '3980320', 'Firmo: PAREDES VILLACORTA FELIX BELISARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 30, 2), '8'), ('512521', '3980320', 'Firmo: FLORES TELLEZ ANGELA MARJORY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 12), '8'), ('514453', '3994948', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 30, 41), '8'), ('514453', '3994948', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 31, 9), '8'), ('514602', '3978653', 'CLIENTE FIRMARA E.P EL DIA 18.08.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 6, 51), '8'), ('514846', '3987051', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 23), '8'), ('514846', '3987051', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 5), '8'), ('515717', '3990752', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 29), '8'), ('515717', '3990752', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 57), '8'), ('515828', '3994654', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 3), '8'), ('515828', '3994654', 'Firmo: PINTO AHUMADA  MARCK CESAR en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 33), '8'), ('515856', '3991601', 'Firmo: AGUILAR MALHABER GISELLA SHIVELY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 0, 30), '8'), ('516688', '3987045', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 46, 42), '8'), ('516917', '3989738', 'Firmo: OLAYA LAINES DIEGO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 7, 54), '8'), ('517264', '3990430', 'Firmo: DEL ROSARIO MORA FELIX ANDREE', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 30, 30), '8'), ('517279', '3999059', 'CLIENTE CITADO PARA 18/08 A LAS 11:00 AM.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 20, 11), '8'), ('517355', '3966962', 'Firmo: CARRION GARCIA JUAN PABLO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 42, 29), '8'), ('517451', '3999258', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 8), '8'), ('517451', '3999258', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 37), '8'), ('517492', '3995829', 'Llegó Cheque por el monto de S/.  443,900.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 16, 30), '8'), ('517519', '3959933', 'KARDEX: 517519  Derechos Notariales: 623.65  Derechos Registrales: 3312.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 41, 40), '8'), ('517520', '3995827', 'Firmo: QUIROZ RIVADENEYRA JACKELINE ELIZABETH', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 33, 55), '8'), ('517520', '3995827', 'Firmo: TAVARA GUERRERO RENATO ADRIAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 34, 43), '8'), ('517535', '4000105', 'KARDEX: 517535  Derechos Notariales: 577.32  Derechos Registrales: 2550.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 48), '8'), ('517555', '4002041', 'KARDEX: 517555  Derechos Notariales: 577.32  Derechos Registrales: 1404.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 34, 19), '8'), ('517578', '3998753', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 20, 38), '8'), ('517578', '3998753', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 21, 23), '8'), ('517595', '3996093', 'PENDIENTE ABONOS DE LOS DERCHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 26, 10), '8'), ('517645', '3994738', 'SE ENVÍA CORREO A CLIENTE SOLICITANDO DISPONIBILIDAD PARA AGENDAR FIRMA DE ESCRITURA PÚBLICA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 45, 18), '8'), ('517756', '3998465', 'KARDEX: 517756  Derechos Notariales: 577.32  Derechos Registrales: 1153.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 42, 19), '8'), ('517760', '3991113', 'ESTIMADOS SE HA ENVIADO PROYECTO DE ESCRITURA PUBLICA, ESTAMOS A LA ESPERA DE CONFORMIDAD POR PARTE DEL CLIENTE PARA AGENDAR CITA EN NOTARIA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 28, 34), '8'), ('517819', '3998739', 'KARDEX: 517819  Derechos Notariales: 573.66  Derechos Registrales: 772.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 54, 44), '8'), ('517823', '3999135', 'KARDEX: 517823  Derechos Notariales: 573.66  Derechos Registrales: 1127.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 56, 1), '8'), ('517824', '4000230', 'KARDEX: 517824  Derechos Notariales: 573.66  Derechos Registrales: 1625.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 46, 32), '8'), ('517868', '3994648', 'KARDEX: 517868  Derechos Notariales: 573.66  Derechos Registrales: 1691.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 45, 20), '8'), ('518009', '4000213', 'Firmo: RODRIGUEZ ORELLANA SERGIO ESTEBAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 47, 37), '8'), ('518020', '3995534', 'KARDEX: 518020  Derechos Notariales: 627.31  Derechos Registrales: 3084.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 42), '8'), ('518042', '3988572', 'KARDEX: 518042  Derechos Notariales: 573.66  Derechos Registrales: 1522.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 40, 29), '8'), ('518042', '3988572', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 18), '8'), ('518057', '4003539', 'Firmo: HUARCAYA RODRIGUEZ  EDGAR', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 23, 42), '8'), ('518057', '4003539', 'Firmo: QUISPE TAIPE AUREA MARIA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 10), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO FERNANDO EUGENIO en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 48), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO CECILIA ESTELA JULIA en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 26, 3), '8'), ('518065', '3998746', 'KARDEX: 518065  Derechos Notariales: 573.66  Derechos Registrales: 1654.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 35, 34), '8'), ('518588', '3991607', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 3, 5), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de US$  558,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 24, 14), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de S/.   90,396.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 25, 8), '8'), ('518735', '3999102', 'PENDIENTES:1.  MINUTA DE CV ORIGINAL.2. RENTA.3. ALCABALA.4. PREDIAL.5. LEV DE HIPOTECA BCP ORIGINAL Y PAGOS X EL MISMO-VENDEDOR.6. PAGOS NOT Y REGIST-COMPRADOR.7. EVIDENCIA INICIAL', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 30, 33), '8'), ('518903', '3988457', 'Llegó Cheque por el monto de US$  115,384.62 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 20, 57), '8'), ('518910', '3998522', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 41, 44), '8'), ('518910', '3998522', 'SE PROCEDE A FACTURAR DERECHOS NOTARIALES Y REGISTRALES. POR FAVOR SU APOYO CON LOS MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 55, 23), '8'), ('518933', '3999420', 'PENDIENTE: 1.MINUTA ORIGINAL 2. RECIBO DE PREDIAL Y CONSTANCIA DE NO ADEUDO. 3. RENTA 4.ALCABALA 5.MEDIO DE PAGO INICIAL 6.CHEQUE DE DESEMBOLSO 7.INSCRIPCION DE BLOQUEO.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 48, 49), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de S/.   42,165.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 17, 36), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de US$   90,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 25), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 56), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 22, 50), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de S/.   23,985.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 23, 39), '8'), ('519144', '3998183', 'KARDEX: 519144  Derechos Notariales: 580.97  Derechos Registrales: 1148.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 42, 52), '8'), ('519152', '4000387', 'KARDEX: 519152  Derechos Notariales: 623.65  Derechos Registrales: 2023.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 40, 59), '8'), ('519152', '4000387', 'Llegó Cheque por el monto de S/.  346,477.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 15, 16), '8'), ('519155', '4002222', 'KARDEX: 519155  Derechos Notariales: 572.01  Derechos Registrales: 1597.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 41, 47), '8'), ('519176', '4002148', 'KARDEX: 519176  Derechos Notariales: 622.00  Derechos Registrales: 5396.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 24, 33), '8'), ('519235', '3979783', 'KARDEX: 519235  Derechos Notariales: 634.63  Derechos Registrales: 2602.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 44, 52), '8'), ('519235', '3979783', 'Llegó Cheque por el monto de US$   62,838.88 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 2, 18), '8'), ('519251', '3984007', 'KARDEX: 519251  Derechos Notariales: 573.66  Derechos Registrales: 1217.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 23, 50), '8'), ('519251', '3984007', 'Llegó Desembolso por el monto de S/.  167,750.00 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 3, 36), '8'), ('519251', '3984007', 'LLEGÓ CERTIFICADO BANCARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 4, 8), '8')) HORA: 10.17.53
+
+Expendiente Nro. 230058 HORA: 10.17.58
+
+Consulta base de datos: 2022-08-18 10.13.00 / 2022-08-18 10.18.00 HORA: 10.23.29
+
+Casos encontrados: 71
+(('334440', '230058', 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('430778', '1593666', 'CLIENTA INDICA QUE SE APERSONARA A FIRMAR EEPP 18/08/2022 A LAS 04:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 11, 11), '8'), ('441441', None, 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('511549', '3977755', 'PENDIENTES:1. PAGOS NOT Y REGIST X LEV DE HIPOTECA BCP.2. MINUTA DE LEV DE HIPOTECA BCP VIGENTE. 3.RENTA.\t', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 58, 34), '8'), ('512521', '3980320', 'Firmo: PAREDES VILLACORTA FELIX BELISARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 30, 2), '8'), ('512521', '3980320', 'Firmo: FLORES TELLEZ ANGELA MARJORY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 12), '8'), ('514453', '3994948', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 30, 41), '8'), ('514453', '3994948', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 31, 9), '8'), ('514602', '3978653', 'CLIENTE FIRMARA E.P EL DIA 18.08.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 6, 51), '8'), ('514846', '3987051', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 23), '8'), ('514846', '3987051', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 5), '8'), ('515717', '3990752', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 29), '8'), ('515717', '3990752', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 57), '8'), ('515828', '3994654', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 3), '8'), ('515828', '3994654', 'Firmo: PINTO AHUMADA  MARCK CESAR en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 33), '8'), ('515856', '3991601', 'Firmo: AGUILAR MALHABER GISELLA SHIVELY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 0, 30), '8'), ('516688', '3987045', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 46, 42), '8'), ('516917', '3989738', 'Firmo: OLAYA LAINES DIEGO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 7, 54), '8'), ('517264', '3990430', 'Firmo: DEL ROSARIO MORA FELIX ANDREE', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 30, 30), '8'), ('517279', '3999059', 'CLIENTE CITADO PARA 18/08 A LAS 11:00 AM.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 20, 11), '8'), ('517355', '3966962', 'Firmo: CARRION GARCIA JUAN PABLO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 42, 29), '8'), ('517451', '3999258', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 8), '8'), ('517451', '3999258', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 37), '8'), ('517492', '3995829', 'Llegó Cheque por el monto de S/.  443,900.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 16, 30), '8'), ('517519', '3959933', 'KARDEX: 517519  Derechos Notariales: 623.65  Derechos Registrales: 3312.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 41, 40), '8'), ('517520', '3995827', 'Firmo: QUIROZ RIVADENEYRA JACKELINE ELIZABETH', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 33, 55), '8'), ('517520', '3995827', 'Firmo: TAVARA GUERRERO RENATO ADRIAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 34, 43), '8'), ('517535', '4000105', 'KARDEX: 517535  Derechos Notariales: 577.32  Derechos Registrales: 2550.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 48), '8'), ('517555', '4002041', 'KARDEX: 517555  Derechos Notariales: 577.32  Derechos Registrales: 1404.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 34, 19), '8'), ('517578', '3998753', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 20, 38), '8'), ('517578', '3998753', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 21, 23), '8'), ('517595', '3996093', 'PENDIENTE ABONOS DE LOS DERCHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 26, 10), '8'), ('517645', '3994738', 'SE ENVÍA CORREO A CLIENTE SOLICITANDO DISPONIBILIDAD PARA AGENDAR FIRMA DE ESCRITURA PÚBLICA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 45, 18), '8'), ('517756', '3998465', 'KARDEX: 517756  Derechos Notariales: 577.32  Derechos Registrales: 1153.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 42, 19), '8'), ('517760', '3991113', 'ESTIMADOS SE HA ENVIADO PROYECTO DE ESCRITURA PUBLICA, ESTAMOS A LA ESPERA DE CONFORMIDAD POR PARTE DEL CLIENTE PARA AGENDAR CITA EN NOTARIA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 28, 34), '8'), ('517819', '3998739', 'KARDEX: 517819  Derechos Notariales: 573.66  Derechos Registrales: 772.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 54, 44), '8'), ('517823', '3999135', 'KARDEX: 517823  Derechos Notariales: 573.66  Derechos Registrales: 1127.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 56, 1), '8'), ('517824', '4000230', 'KARDEX: 517824  Derechos Notariales: 573.66  Derechos Registrales: 1625.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 46, 32), '8'), ('517868', '3994648', 'KARDEX: 517868  Derechos Notariales: 573.66  Derechos Registrales: 1691.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 45, 20), '8'), ('518009', '4000213', 'Firmo: RODRIGUEZ ORELLANA SERGIO ESTEBAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 47, 37), '8'), ('518020', '3995534', 'KARDEX: 518020  Derechos Notariales: 627.31  Derechos Registrales: 3084.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 42), '8'), ('518042', '3988572', 'KARDEX: 518042  Derechos Notariales: 573.66  Derechos Registrales: 1522.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 40, 29), '8'), ('518042', '3988572', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 18), '8'), ('518057', '4003539', 'Firmo: HUARCAYA RODRIGUEZ  EDGAR', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 23, 42), '8'), ('518057', '4003539', 'Firmo: QUISPE TAIPE AUREA MARIA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 10), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO FERNANDO EUGENIO en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 48), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO CECILIA ESTELA JULIA en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 26, 3), '8'), ('518065', '3998746', 'KARDEX: 518065  Derechos Notariales: 573.66  Derechos Registrales: 1654.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 35, 34), '8'), ('518588', '3991607', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 3, 5), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de US$  558,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 24, 14), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de S/.   90,396.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 25, 8), '8'), ('518735', '3999102', 'PENDIENTES:1.  MINUTA DE CV ORIGINAL.2. RENTA.3. ALCABALA.4. PREDIAL.5. LEV DE HIPOTECA BCP ORIGINAL Y PAGOS X EL MISMO-VENDEDOR.6. PAGOS NOT Y REGIST-COMPRADOR.7. EVIDENCIA INICIAL', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 30, 33), '8'), ('518903', '3988457', 'Llegó Cheque por el monto de US$  115,384.62 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 20, 57), '8'), ('518910', '3998522', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 41, 44), '8'), ('518910', '3998522', 'SE PROCEDE A FACTURAR DERECHOS NOTARIALES Y REGISTRALES. POR FAVOR SU APOYO CON LOS MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 55, 23), '8'), ('518933', '3999420', 'PENDIENTE: 1.MINUTA ORIGINAL 2. RECIBO DE PREDIAL Y CONSTANCIA DE NO ADEUDO. 3. RENTA 4.ALCABALA 5.MEDIO DE PAGO INICIAL 6.CHEQUE DE DESEMBOLSO 7.INSCRIPCION DE BLOQUEO.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 48, 49), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de S/.   42,165.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 17, 36), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de US$   90,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 25), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 56), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 22, 50), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de S/.   23,985.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 23, 39), '8'), ('519144', '3998183', 'KARDEX: 519144  Derechos Notariales: 580.97  Derechos Registrales: 1148.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 42, 52), '8'), ('519152', '4000387', 'KARDEX: 519152  Derechos Notariales: 623.65  Derechos Registrales: 2023.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 40, 59), '8'), ('519152', '4000387', 'Llegó Cheque por el monto de S/.  346,477.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 15, 16), '8'), ('519155', '4002222', 'KARDEX: 519155  Derechos Notariales: 572.01  Derechos Registrales: 1597.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 41, 47), '8'), ('519176', '4002148', 'KARDEX: 519176  Derechos Notariales: 622.00  Derechos Registrales: 5396.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 24, 33), '8'), ('519235', '3979783', 'KARDEX: 519235  Derechos Notariales: 634.63  Derechos Registrales: 2602.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 44, 52), '8'), ('519235', '3979783', 'Llegó Cheque por el monto de US$   62,838.88 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 2, 18), '8'), ('519251', '3984007', 'KARDEX: 519251  Derechos Notariales: 573.66  Derechos Registrales: 1217.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 23, 50), '8'), ('519251', '3984007', 'Llegó Desembolso por el monto de S/.  167,750.00 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 3, 36), '8'), ('519251', '3984007', 'LLEGÓ CERTIFICADO BANCARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 4, 8), '8')) HORA: 10.23.29
+
+Expendiente Nro. 230058 HORA: 10.23.36
+
+Expendiente Nro. 1593666 HORA: 10.23.52
+
+Consulta base de datos: 2022-08-18 10.23.00 / 2022-08-18 10.28.00 HORA: 10.33.39
+
+Casos encontrados: 71
+(('334440', '230058', 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('430778', '1593666', 'CLIENTA INDICA QUE SE APERSONARA A FIRMAR EEPP 18/08/2022 A LAS 04:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 11, 11), '8'), ('441441', None, 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('511549', '3977755', 'PENDIENTES:1. PAGOS NOT Y REGIST X LEV DE HIPOTECA BCP.2. MINUTA DE LEV DE HIPOTECA BCP VIGENTE. 3.RENTA.\t', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 58, 34), '8'), ('512521', '3980320', 'Firmo: PAREDES VILLACORTA FELIX BELISARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 30, 2), '8'), ('512521', '3980320', 'Firmo: FLORES TELLEZ ANGELA MARJORY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 12), '8'), ('514453', '3994948', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 30, 41), '8'), ('514453', '3994948', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 31, 9), '8'), ('514602', '3978653', 'CLIENTE FIRMARA E.P EL DIA 18.08.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 6, 51), '8'), ('514846', '3987051', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 23), '8'), ('514846', '3987051', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 5), '8'), ('515717', '3990752', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 29), '8'), ('515717', '3990752', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 57), '8'), ('515828', '3994654', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 3), '8'), ('515828', '3994654', 'Firmo: PINTO AHUMADA  MARCK CESAR en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 33), '8'), ('515856', '3991601', 'Firmo: AGUILAR MALHABER GISELLA SHIVELY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 0, 30), '8'), ('516688', '3987045', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 46, 42), '8'), ('516917', '3989738', 'Firmo: OLAYA LAINES DIEGO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 7, 54), '8'), ('517264', '3990430', 'Firmo: DEL ROSARIO MORA FELIX ANDREE', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 30, 30), '8'), ('517279', '3999059', 'CLIENTE CITADO PARA 18/08 A LAS 11:00 AM.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 20, 11), '8'), ('517355', '3966962', 'Firmo: CARRION GARCIA JUAN PABLO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 42, 29), '8'), ('517451', '3999258', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 8), '8'), ('517451', '3999258', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 37), '8'), ('517492', '3995829', 'Llegó Cheque por el monto de S/.  443,900.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 16, 30), '8'), ('517519', '3959933', 'KARDEX: 517519  Derechos Notariales: 623.65  Derechos Registrales: 3312.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 41, 40), '8'), ('517520', '3995827', 'Firmo: QUIROZ RIVADENEYRA JACKELINE ELIZABETH', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 33, 55), '8'), ('517520', '3995827', 'Firmo: TAVARA GUERRERO RENATO ADRIAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 34, 43), '8'), ('517535', '4000105', 'KARDEX: 517535  Derechos Notariales: 577.32  Derechos Registrales: 2550.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 48), '8'), ('517555', '4002041', 'KARDEX: 517555  Derechos Notariales: 577.32  Derechos Registrales: 1404.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 34, 19), '8'), ('517578', '3998753', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 20, 38), '8'), ('517578', '3998753', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 21, 23), '8'), ('517595', '3996093', 'PENDIENTE ABONOS DE LOS DERCHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 26, 10), '8'), ('517645', '3994738', 'SE ENVÍA CORREO A CLIENTE SOLICITANDO DISPONIBILIDAD PARA AGENDAR FIRMA DE ESCRITURA PÚBLICA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 45, 18), '8'), ('517756', '3998465', 'KARDEX: 517756  Derechos Notariales: 577.32  Derechos Registrales: 1153.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 42, 19), '8'), ('517760', '3991113', 'ESTIMADOS SE HA ENVIADO PROYECTO DE ESCRITURA PUBLICA, ESTAMOS A LA ESPERA DE CONFORMIDAD POR PARTE DEL CLIENTE PARA AGENDAR CITA EN NOTARIA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 28, 34), '8'), ('517819', '3998739', 'KARDEX: 517819  Derechos Notariales: 573.66  Derechos Registrales: 772.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 54, 44), '8'), ('517823', '3999135', 'KARDEX: 517823  Derechos Notariales: 573.66  Derechos Registrales: 1127.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 56, 1), '8'), ('517824', '4000230', 'KARDEX: 517824  Derechos Notariales: 573.66  Derechos Registrales: 1625.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 46, 32), '8'), ('517868', '3994648', 'KARDEX: 517868  Derechos Notariales: 573.66  Derechos Registrales: 1691.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 45, 20), '8'), ('518009', '4000213', 'Firmo: RODRIGUEZ ORELLANA SERGIO ESTEBAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 47, 37), '8'), ('518020', '3995534', 'KARDEX: 518020  Derechos Notariales: 627.31  Derechos Registrales: 3084.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 42), '8'), ('518042', '3988572', 'KARDEX: 518042  Derechos Notariales: 573.66  Derechos Registrales: 1522.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 40, 29), '8'), ('518042', '3988572', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 18), '8'), ('518057', '4003539', 'Firmo: HUARCAYA RODRIGUEZ  EDGAR', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 23, 42), '8'), ('518057', '4003539', 'Firmo: QUISPE TAIPE AUREA MARIA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 10), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO FERNANDO EUGENIO en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 48), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO CECILIA ESTELA JULIA en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 26, 3), '8'), ('518065', '3998746', 'KARDEX: 518065  Derechos Notariales: 573.66  Derechos Registrales: 1654.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 35, 34), '8'), ('518588', '3991607', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 3, 5), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de US$  558,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 24, 14), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de S/.   90,396.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 25, 8), '8'), ('518735', '3999102', 'PENDIENTES:1.  MINUTA DE CV ORIGINAL.2. RENTA.3. ALCABALA.4. PREDIAL.5. LEV DE HIPOTECA BCP ORIGINAL Y PAGOS X EL MISMO-VENDEDOR.6. PAGOS NOT Y REGIST-COMPRADOR.7. EVIDENCIA INICIAL', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 30, 33), '8'), ('518903', '3988457', 'Llegó Cheque por el monto de US$  115,384.62 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 20, 57), '8'), ('518910', '3998522', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 41, 44), '8'), ('518910', '3998522', 'SE PROCEDE A FACTURAR DERECHOS NOTARIALES Y REGISTRALES. POR FAVOR SU APOYO CON LOS MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 55, 23), '8'), ('518933', '3999420', 'PENDIENTE: 1.MINUTA ORIGINAL 2. RECIBO DE PREDIAL Y CONSTANCIA DE NO ADEUDO. 3. RENTA 4.ALCABALA 5.MEDIO DE PAGO INICIAL 6.CHEQUE DE DESEMBOLSO 7.INSCRIPCION DE BLOQUEO.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 48, 49), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de S/.   42,165.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 17, 36), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de US$   90,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 25), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 56), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 22, 50), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de S/.   23,985.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 23, 39), '8'), ('519144', '3998183', 'KARDEX: 519144  Derechos Notariales: 580.97  Derechos Registrales: 1148.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 42, 52), '8'), ('519152', '4000387', 'KARDEX: 519152  Derechos Notariales: 623.65  Derechos Registrales: 2023.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 40, 59), '8'), ('519152', '4000387', 'Llegó Cheque por el monto de S/.  346,477.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 15, 16), '8'), ('519155', '4002222', 'KARDEX: 519155  Derechos Notariales: 572.01  Derechos Registrales: 1597.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 41, 47), '8'), ('519176', '4002148', 'KARDEX: 519176  Derechos Notariales: 622.00  Derechos Registrales: 5396.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 24, 33), '8'), ('519235', '3979783', 'KARDEX: 519235  Derechos Notariales: 634.63  Derechos Registrales: 2602.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 44, 52), '8'), ('519235', '3979783', 'Llegó Cheque por el monto de US$   62,838.88 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 2, 18), '8'), ('519251', '3984007', 'KARDEX: 519251  Derechos Notariales: 573.66  Derechos Registrales: 1217.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 23, 50), '8'), ('519251', '3984007', 'Llegó Desembolso por el monto de S/.  167,750.00 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 3, 36), '8'), ('519251', '3984007', 'LLEGÓ CERTIFICADO BANCARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 4, 8), '8')) HORA: 10.33.39
+
+Expendiente Nro. 230058 HORA: 10.34.15
+
+Expendiente Nro. 1593666 HORA: 10.34.31
+
+Expendiente Nro. None HORA: 10.34.53
+Error en el formato del nro expediente: ×
+Sucedió un error al realizar la búsqueda HORA: 10.34.56
+
+Expendiente Nro. 3977755 HORA: 10.34.57
+
+Expendiente Nro. 3980320 HORA: 10.35.24
+
+Expendiente Nro. 3980320 HORA: 10.35.47
+
+Expendiente Nro. 3994948 HORA: 10.36.17
+
+Expendiente Nro. 3994948 HORA: 10.36.43
+
+Expendiente Nro. 3978653 HORA: 10.37.11
+
+Expendiente Nro. 3987051 HORA: 10.37.36
+
+Expendiente Nro. 3987051 HORA: 10.38.6
+
+Expendiente Nro. 3990752 HORA: 10.38.32
+
+Expendiente Nro. 3990752 HORA: 10.38.55
+
+Expendiente Nro. 3994654 HORA: 10.39.17
+
+Expendiente Nro. 3994654 HORA: 10.39.40
+
+Expendiente Nro. 3991601 HORA: 10.40.2
+
+Expendiente Nro. 3987045 HORA: 10.40.27
+
+Expendiente Nro. 3989738 HORA: 10.40.52
+
+Expendiente Nro. 3990430 HORA: 10.41.18
+
+Expendiente Nro. 3999059 HORA: 10.41.43
+
+Expendiente Nro. 3966962 HORA: 10.42.7
+
+Expendiente Nro. 3999258 HORA: 10.42.31
+
+Expendiente Nro. 3999258 HORA: 10.42.58
+
+Expendiente Nro. 3995829 HORA: 10.43.24
+
+Expendiente Nro. 3959933 HORA: 10.43.47
+
+Expendiente Nro. 3995827 HORA: 10.44.17
+
+Expendiente Nro. 3995827 HORA: 10.44.41
+
+Expendiente Nro. 4000105 HORA: 10.45.5
+
+Expendiente Nro. 4002041 HORA: 10.45.31
+
+Expendiente Nro. 3998753 HORA: 10.45.54
+
+Expendiente Nro. 3998753 HORA: 10.46.18
+
+Expendiente Nro. 3996093 HORA: 10.46.41
+
+Expendiente Nro. 3994738 HORA: 10.47.7
+
+Expendiente Nro. 3998465 HORA: 10.47.33
+
+Expendiente Nro. 3991113 HORA: 10.47.59
+
+Expendiente Nro. 3998739 HORA: 10.48.25
+
+Expendiente Nro. 3999135 HORA: 10.48.50
+
+Expendiente Nro. 4000230 HORA: 10.49.14
+
+Expendiente Nro. 3994648 HORA: 10.49.38
+
+Expendiente Nro. 4000213 HORA: 10.50.3
+
+Expendiente Nro. 3995534 HORA: 10.50.29
+
+Expendiente Nro. 3988572 HORA: 10.50.56
+
+Expendiente Nro. 3988572 HORA: 10.51.20
+
+Expendiente Nro. 4003539 HORA: 10.51.44
+
+Expendiente Nro. 4003539 HORA: 10.52.12
+
+Expendiente Nro. 4003539 HORA: 10.52.37
+
+Expendiente Nro. 4003539 HORA: 10.53.4
+
+Expendiente Nro. 3998746 HORA: 10.53.31
+
+Expendiente Nro. 3991607 HORA: 10.53.56
+
+Expendiente Nro. 3999102 HORA: 10.54.21
+
+Expendiente Nro. 3999102 HORA: 10.54.48
+
+Expendiente Nro. 3999102 HORA: 10.55.14
+
+Expendiente Nro. 3988457 HORA: 10.55.41
+
+Expendiente Nro. 3998522 HORA: 10.56.7
+
+Expendiente Nro. 3998522 HORA: 10.56.43
+
+Expendiente Nro. 3999420 HORA: 10.57.20
+
+Expendiente Nro. 3999420 HORA: 10.57.46
+
+Expendiente Nro. 3999420 HORA: 10.58.14
+
+Expendiente Nro. 3997576 HORA: 10.58.42
+
+Expendiente Nro. 3997576 HORA: 10.59.9
+
+Expendiente Nro. 3997576 HORA: 10.59.35
+
+Expendiente Nro. 3998183 HORA: 11.0.0
+
+Expendiente Nro. 4000387 HORA: 11.0.26
+
+Expendiente Nro. 4000387 HORA: 11.0.51
+
+Expendiente Nro. 4002222 HORA: 11.1.17
+
+Expendiente Nro. 4002148 HORA: 11.1.40
+
+Consulta base de datos: 2022-08-18 11.38.00 / 2022-08-18 11.43.00 HORA: 11.48.42
+
+Casos encontrados: 71
+(('334440', '230058', 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('430778', '1593666', 'CLIENTA INDICA QUE SE APERSONARA A FIRMAR EEPP 18/08/2022 A LAS 04:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 11, 11), '8'), ('441441', None, 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('511549', '3977755', 'PENDIENTES:1. PAGOS NOT Y REGIST X LEV DE HIPOTECA BCP.2. MINUTA DE LEV DE HIPOTECA BCP VIGENTE. 3.RENTA.\t', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 58, 34), '8'), ('512521', '3980320', 'Firmo: PAREDES VILLACORTA FELIX BELISARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 30, 2), '8'), ('512521', '3980320', 'Firmo: FLORES TELLEZ ANGELA MARJORY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 12), '8'), ('514453', '3994948', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 30, 41), '8'), ('514453', '3994948', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 31, 9), '8'), ('514602', '3978653', 'CLIENTE FIRMARA E.P EL DIA 18.08.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 6, 51), '8'), ('514846', '3987051', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 23), '8'), ('514846', '3987051', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 5), '8'), ('515717', '3990752', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 29), '8'), ('515717', '3990752', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 57), '8'), ('515828', '3994654', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 3), '8'), ('515828', '3994654', 'Firmo: PINTO AHUMADA  MARCK CESAR en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 33), '8'), ('515856', '3991601', 'Firmo: AGUILAR MALHABER GISELLA SHIVELY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 0, 30), '8'), ('516688', '3987045', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 46, 42), '8'), ('516917', '3989738', 'Firmo: OLAYA LAINES DIEGO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 7, 54), '8'), ('517264', '3990430', 'Firmo: DEL ROSARIO MORA FELIX ANDREE', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 30, 30), '8'), ('517279', '3999059', 'CLIENTE CITADO PARA 18/08 A LAS 11:00 AM.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 20, 11), '8'), ('517355', '3966962', 'Firmo: CARRION GARCIA JUAN PABLO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 42, 29), '8'), ('517451', '3999258', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 8), '8'), ('517451', '3999258', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 37), '8'), ('517492', '3995829', 'Llegó Cheque por el monto de S/.  443,900.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 16, 30), '8'), ('517519', '3959933', 'KARDEX: 517519  Derechos Notariales: 623.65  Derechos Registrales: 3312.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 41, 40), '8'), ('517520', '3995827', 'Firmo: QUIROZ RIVADENEYRA JACKELINE ELIZABETH', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 33, 55), '8'), ('517520', '3995827', 'Firmo: TAVARA GUERRERO RENATO ADRIAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 34, 43), '8'), ('517535', '4000105', 'KARDEX: 517535  Derechos Notariales: 577.32  Derechos Registrales: 2550.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 48), '8'), ('517555', '4002041', 'KARDEX: 517555  Derechos Notariales: 577.32  Derechos Registrales: 1404.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 34, 19), '8'), ('517578', '3998753', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 20, 38), '8'), ('517578', '3998753', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 21, 23), '8'), ('517595', '3996093', 'PENDIENTE ABONOS DE LOS DERCHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 26, 10), '8'), ('517645', '3994738', 'SE ENVÍA CORREO A CLIENTE SOLICITANDO DISPONIBILIDAD PARA AGENDAR FIRMA DE ESCRITURA PÚBLICA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 45, 18), '8'), ('517756', '3998465', 'KARDEX: 517756  Derechos Notariales: 577.32  Derechos Registrales: 1153.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 42, 19), '8'), ('517760', '3991113', 'ESTIMADOS SE HA ENVIADO PROYECTO DE ESCRITURA PUBLICA, ESTAMOS A LA ESPERA DE CONFORMIDAD POR PARTE DEL CLIENTE PARA AGENDAR CITA EN NOTARIA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 28, 34), '8'), ('517819', '3998739', 'KARDEX: 517819  Derechos Notariales: 573.66  Derechos Registrales: 772.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 54, 44), '8'), ('517823', '3999135', 'KARDEX: 517823  Derechos Notariales: 573.66  Derechos Registrales: 1127.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 56, 1), '8'), ('517824', '4000230', 'KARDEX: 517824  Derechos Notariales: 573.66  Derechos Registrales: 1625.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 46, 32), '8'), ('517868', '3994648', 'KARDEX: 517868  Derechos Notariales: 573.66  Derechos Registrales: 1691.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 45, 20), '8'), ('518009', '4000213', 'Firmo: RODRIGUEZ ORELLANA SERGIO ESTEBAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 47, 37), '8'), ('518020', '3995534', 'KARDEX: 518020  Derechos Notariales: 627.31  Derechos Registrales: 3084.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 42), '8'), ('518042', '3988572', 'KARDEX: 518042  Derechos Notariales: 573.66  Derechos Registrales: 1522.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 40, 29), '8'), ('518042', '3988572', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 18), '8'), ('518057', '4003539', 'Firmo: HUARCAYA RODRIGUEZ  EDGAR', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 23, 42), '8'), ('518057', '4003539', 'Firmo: QUISPE TAIPE AUREA MARIA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 10), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO FERNANDO EUGENIO en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 48), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO CECILIA ESTELA JULIA en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 26, 3), '8'), ('518065', '3998746', 'KARDEX: 518065  Derechos Notariales: 573.66  Derechos Registrales: 1654.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 35, 34), '8'), ('518588', '3991607', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 3, 5), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de US$  558,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 24, 14), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de S/.   90,396.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 25, 8), '8'), ('518735', '3999102', 'PENDIENTES:1.  MINUTA DE CV ORIGINAL.2. RENTA.3. ALCABALA.4. PREDIAL.5. LEV DE HIPOTECA BCP ORIGINAL Y PAGOS X EL MISMO-VENDEDOR.6. PAGOS NOT Y REGIST-COMPRADOR.7. EVIDENCIA INICIAL', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 30, 33), '8'), ('518903', '3988457', 'Llegó Cheque por el monto de US$  115,384.62 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 20, 57), '8'), ('518910', '3998522', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 41, 44), '8'), ('518910', '3998522', 'SE PROCEDE A FACTURAR DERECHOS NOTARIALES Y REGISTRALES. POR FAVOR SU APOYO CON LOS MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 55, 23), '8'), ('518933', '3999420', 'PENDIENTE: 1.MINUTA ORIGINAL 2. RECIBO DE PREDIAL Y CONSTANCIA DE NO ADEUDO. 3. RENTA 4.ALCABALA 5.MEDIO DE PAGO INICIAL 6.CHEQUE DE DESEMBOLSO 7.INSCRIPCION DE BLOQUEO.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 48, 49), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de S/.   42,165.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 17, 36), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de US$   90,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 25), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 56), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 22, 50), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de S/.   23,985.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 23, 39), '8'), ('519144', '3998183', 'KARDEX: 519144  Derechos Notariales: 580.97  Derechos Registrales: 1148.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 42, 52), '8'), ('519152', '4000387', 'KARDEX: 519152  Derechos Notariales: 623.65  Derechos Registrales: 2023.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 40, 59), '8'), ('519152', '4000387', 'Llegó Cheque por el monto de S/.  346,477.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 15, 16), '8'), ('519155', '4002222', 'KARDEX: 519155  Derechos Notariales: 572.01  Derechos Registrales: 1597.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 41, 47), '8'), ('519176', '4002148', 'KARDEX: 519176  Derechos Notariales: 622.00  Derechos Registrales: 5396.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 24, 33), '8'), ('519235', '3979783', 'KARDEX: 519235  Derechos Notariales: 634.63  Derechos Registrales: 2602.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 44, 52), '8'), ('519235', '3979783', 'Llegó Cheque por el monto de US$   62,838.88 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 2, 18), '8'), ('519251', '3984007', 'KARDEX: 519251  Derechos Notariales: 573.66  Derechos Registrales: 1217.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 23, 50), '8'), ('519251', '3984007', 'Llegó Desembolso por el monto de S/.  167,750.00 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 3, 36), '8'), ('519251', '3984007', 'LLEGÓ CERTIFICADO BANCARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 4, 8), '8')) HORA: 11.48.42
+
+Expendiente Nro. 230058 HORA: 11.48.56
+
+Expendiente Nro. 1593666 HORA: 11.49.11
+
+Expendiente Nro. None HORA: 11.49.35
+Error en el formato del nro expediente: ×
+Sucedió un error al realizar la búsqueda HORA: 11.49.38
+
+Expendiente Nro. 3977755 HORA: 11.49.39
+
+Expendiente Nro. 3980320 HORA: 11.50.5
+
+Expendiente Nro. 3980320 HORA: 11.50.28
+
+Expendiente Nro. 3994948 HORA: 11.50.51
+
+Expendiente Nro. 3994948 HORA: 11.51.17
+
+Expendiente Nro. 3978653 HORA: 11.51.42
+
+Expendiente Nro. 3987051 HORA: 11.52.3
+
+Expendiente Nro. 3987051 HORA: 11.52.27
+
+Expendiente Nro. 3990752 HORA: 11.52.47
+
+Expendiente Nro. 3990752 HORA: 11.53.9
+
+Expendiente Nro. 3994654 HORA: 11.53.30
+
+Expendiente Nro. 3994654 HORA: 11.53.52
+
+Expendiente Nro. 3991601 HORA: 11.54.16
+
+Expendiente Nro. 3987045 HORA: 11.54.41
+
+Expendiente Nro. 3989738 HORA: 11.55.6
+
+Expendiente Nro. 3990430 HORA: 11.55.32
+
+Expendiente Nro. 3999059 HORA: 11.55.57
+
+Expendiente Nro. 3966962 HORA: 11.56.19
+
+Expendiente Nro. 3999258 HORA: 11.56.43
+
+Expendiente Nro. 3999258 HORA: 11.57.9
+
+Expendiente Nro. 3995829 HORA: 11.57.34
+
+Expendiente Nro. 3959933 HORA: 11.57.55
+
+Expendiente Nro. 3995827 HORA: 11.58.21
+
+Expendiente Nro. 3995827 HORA: 11.58.44
+
+Expendiente Nro. 4000105 HORA: 11.59.7
+
+Expendiente Nro. 4002041 HORA: 11.59.32
+
+Expendiente Nro. 3998753 HORA: 11.59.54
+
+Expendiente Nro. 3998753 HORA: 12.0.16
+
+Expendiente Nro. 3996093 HORA: 12.0.38
+
+Expendiente Nro. 3994738 HORA: 12.1.1
+
+Expendiente Nro. 3998465 HORA: 12.1.27
+
+Expendiente Nro. 3991113 HORA: 12.1.51
+
+Expendiente Nro. 3998739 HORA: 12.2.14
+
+Expendiente Nro. 3999135 HORA: 12.2.37
+
+Expendiente Nro. 4000230 HORA: 12.2.59
+
+Expendiente Nro. 3994648 HORA: 12.3.21
+
+Expendiente Nro. 4000213 HORA: 12.3.45
+
+Expendiente Nro. 3995534 HORA: 12.4.9
+
+Expendiente Nro. 3988572 HORA: 12.4.36
+
+Expendiente Nro. 3988572 HORA: 12.5.2
+
+Expendiente Nro. 4003539 HORA: 12.5.28
+
+Expendiente Nro. 4003539 HORA: 12.5.57
+
+Expendiente Nro. 4003539 HORA: 12.6.26
+
+Expendiente Nro. 4003539 HORA: 12.6.54
+
+Expendiente Nro. 3998746 HORA: 12.7.22
+
+Expendiente Nro. 3991607 HORA: 12.7.47
+
+Expendiente Nro. 3999102 HORA: 12.8.14
+
+Expendiente Nro. 3999102 HORA: 12.8.41
+
+Expendiente Nro. 3999102 HORA: 12.9.8
+
+Expendiente Nro. 3988457 HORA: 12.9.37
+
+Expendiente Nro. 3998522 HORA: 12.10.5
+
+Expendiente Nro. 3998522 HORA: 12.10.42
+
+Expendiente Nro. 3999420 HORA: 12.11.19
+
+Expendiente Nro. 3999420 HORA: 12.11.46
+
+Expendiente Nro. 3999420 HORA: 12.12.12
+
+Expendiente Nro. 3997576 HORA: 12.12.38
+
+Expendiente Nro. 3997576 HORA: 12.13.7
+
+Expendiente Nro. 3997576 HORA: 12.13.36
+
+Expendiente Nro. 3998183 HORA: 12.14.4
+
+Expendiente Nro. 4000387 HORA: 12.14.29
+
+Expendiente Nro. 4000387 HORA: 12.16.22
+
+Expendiente Nro. 4002222 HORA: 12.16.49
+
+Expendiente Nro. 4002148 HORA: 12.17.16
+
+Consulta base de datos: 2022-08-18 12.19.00 / 2022-08-18 12.24.00 HORA: 12.29.42
+
+Casos encontrados: 71
+(('334440', '230058', 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('430778', '1593666', 'CLIENTA INDICA QUE SE APERSONARA A FIRMAR EEPP 18/08/2022 A LAS 04:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 11, 11), '8'), ('441441', None, 'Se bloquea la partida independizada N° 14443188 (Tít. 2384162-2022) a solicitud de Cibergestión.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 28), '8'), ('511549', '3977755', 'PENDIENTES:1. PAGOS NOT Y REGIST X LEV DE HIPOTECA BCP.2. MINUTA DE LEV DE HIPOTECA BCP VIGENTE. 3.RENTA.\t', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 58, 34), '8'), ('512521', '3980320', 'Firmo: PAREDES VILLACORTA FELIX BELISARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 30, 2), '8'), ('512521', '3980320', 'Firmo: FLORES TELLEZ ANGELA MARJORY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 31, 12), '8'), ('514453', '3994948', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 30, 41), '8'), ('514453', '3994948', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 31, 9), '8'), ('514602', '3978653', 'CLIENTE FIRMARA E.P EL DIA 18.08.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 6, 51), '8'), ('514846', '3987051', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 23), '8'), ('514846', '3987051', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 5), '8'), ('515717', '3990752', 'Firmo: ARCE MENDOZA VICTOR ALFREDO ALBERTO en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 29), '8'), ('515717', '3990752', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de VYV PROYECTO 54 S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 38, 57), '8'), ('515828', '3994654', 'Firmo: BRAVO PUCCIO OSCAR MARTIN en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 3), '8'), ('515828', '3994654', 'Firmo: PINTO AHUMADA  MARCK CESAR en representación de INVERSIONES INMOBILIARIAS MAGDALENA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 29, 33), '8'), ('515856', '3991601', 'Firmo: AGUILAR MALHABER GISELLA SHIVELY', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 0, 30), '8'), ('516688', '3987045', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 46, 42), '8'), ('516917', '3989738', 'Firmo: OLAYA LAINES DIEGO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 7, 54), '8'), ('517264', '3990430', 'Firmo: DEL ROSARIO MORA FELIX ANDREE', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 30, 30), '8'), ('517279', '3999059', 'CLIENTE CITADO PARA 18/08 A LAS 11:00 AM.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 20, 11), '8'), ('517355', '3966962', 'Firmo: CARRION GARCIA JUAN PABLO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 42, 29), '8'), ('517451', '3999258', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 8), '8'), ('517451', '3999258', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 26, 37), '8'), ('517492', '3995829', 'Llegó Cheque por el monto de S/.  443,900.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 16, 30), '8'), ('517519', '3959933', 'KARDEX: 517519  Derechos Notariales: 623.65  Derechos Registrales: 3312.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 41, 40), '8'), ('517520', '3995827', 'Firmo: QUIROZ RIVADENEYRA JACKELINE ELIZABETH', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 33, 55), '8'), ('517520', '3995827', 'Firmo: TAVARA GUERRERO RENATO ADRIAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 34, 43), '8'), ('517535', '4000105', 'KARDEX: 517535  Derechos Notariales: 577.32  Derechos Registrales: 2550.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 36, 48), '8'), ('517555', '4002041', 'KARDEX: 517555  Derechos Notariales: 577.32  Derechos Registrales: 1404.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 34, 19), '8'), ('517578', '3998753', 'Firmo: CORTEZ SIFUENTES RICARDO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 20, 38), '8'), ('517578', '3998753', 'Firmo: ZUBIATE HENRICI  GUILLERMO en representación de PROYECTOS E INVERSIONES EDIFICA S.A.C.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 14, 21, 23), '8'), ('517595', '3996093', 'PENDIENTE ABONOS DE LOS DERCHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 26, 10), '8'), ('517645', '3994738', 'SE ENVÍA CORREO A CLIENTE SOLICITANDO DISPONIBILIDAD PARA AGENDAR FIRMA DE ESCRITURA PÚBLICA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 45, 18), '8'), ('517756', '3998465', 'KARDEX: 517756  Derechos Notariales: 577.32  Derechos Registrales: 1153.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 42, 19), '8'), ('517760', '3991113', 'ESTIMADOS SE HA ENVIADO PROYECTO DE ESCRITURA PUBLICA, ESTAMOS A LA ESPERA DE CONFORMIDAD POR PARTE DEL CLIENTE PARA AGENDAR CITA EN NOTARIA.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 28, 34), '8'), ('517819', '3998739', 'KARDEX: 517819  Derechos Notariales: 573.66  Derechos Registrales: 772.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 54, 44), '8'), ('517823', '3999135', 'KARDEX: 517823  Derechos Notariales: 573.66  Derechos Registrales: 1127.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 56, 1), '8'), ('517824', '4000230', 'KARDEX: 517824  Derechos Notariales: 573.66  Derechos Registrales: 1625.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 46, 32), '8'), ('517868', '3994648', 'KARDEX: 517868  Derechos Notariales: 573.66  Derechos Registrales: 1691.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 45, 20), '8'), ('518009', '4000213', 'Firmo: RODRIGUEZ ORELLANA SERGIO ESTEBAN', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 47, 37), '8'), ('518020', '3995534', 'KARDEX: 518020  Derechos Notariales: 627.31  Derechos Registrales: 3084.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 37, 42), '8'), ('518042', '3988572', 'KARDEX: 518042  Derechos Notariales: 573.66  Derechos Registrales: 1522.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 40, 29), '8'), ('518042', '3988572', 'CLIENTE CITADO PARA FIRMAR EEPP 17/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 18), '8'), ('518057', '4003539', 'Firmo: HUARCAYA RODRIGUEZ  EDGAR', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 23, 42), '8'), ('518057', '4003539', 'Firmo: QUISPE TAIPE AUREA MARIA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 10), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO FERNANDO EUGENIO en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 24, 48), '8'), ('518057', '4003539', 'Firmo: RODRIGUEZ PUCCIO CECILIA ESTELA JULIA en representación de C.R. EDIFICACIONES SOCIEDAD ANONIMA CERRADA', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 26, 3), '8'), ('518065', '3998746', 'KARDEX: 518065  Derechos Notariales: 573.66  Derechos Registrales: 1654.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 13, 35, 34), '8'), ('518588', '3991607', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 3, 5), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de US$  558,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 24, 14), '8'), ('518735', '3999102', 'Llegó Cheque por el monto de S/.   90,396.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 25, 8), '8'), ('518735', '3999102', 'PENDIENTES:1.  MINUTA DE CV ORIGINAL.2. RENTA.3. ALCABALA.4. PREDIAL.5. LEV DE HIPOTECA BCP ORIGINAL Y PAGOS X EL MISMO-VENDEDOR.6. PAGOS NOT Y REGIST-COMPRADOR.7. EVIDENCIA INICIAL', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 12, 30, 33), '8'), ('518903', '3988457', 'Llegó Cheque por el monto de US$  115,384.62 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 20, 57), '8'), ('518910', '3998522', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 41, 44), '8'), ('518910', '3998522', 'SE PROCEDE A FACTURAR DERECHOS NOTARIALES Y REGISTRALES. POR FAVOR SU APOYO CON LOS MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 19, 55, 23), '8'), ('518933', '3999420', 'PENDIENTE: 1.MINUTA ORIGINAL 2. RECIBO DE PREDIAL Y CONSTANCIA DE NO ADEUDO. 3. RENTA 4.ALCABALA 5.MEDIO DE PAGO INICIAL 6.CHEQUE DE DESEMBOLSO 7.INSCRIPCION DE BLOQUEO.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 10, 48, 49), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de S/.   42,165.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 17, 36), '8'), ('518933', '3999420', 'Llegó Cheque por el monto de US$   90,000.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 25), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 21, 56), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de US$   63,750.00 sin orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 22, 50), '8'), ('519041', '3997576', 'Llegó Cheque por el monto de S/.   23,985.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 23, 39), '8'), ('519144', '3998183', 'KARDEX: 519144  Derechos Notariales: 580.97  Derechos Registrales: 1148.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 42, 52), '8'), ('519152', '4000387', 'KARDEX: 519152  Derechos Notariales: 623.65  Derechos Registrales: 2023.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 40, 59), '8'), ('519152', '4000387', 'Llegó Cheque por el monto de S/.  346,477.00 con orden de retención de fecha 15/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 11, 15, 16), '8'), ('519155', '4002222', 'KARDEX: 519155  Derechos Notariales: 572.01  Derechos Registrales: 1597.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 9, 41, 47), '8'), ('519176', '4002148', 'KARDEX: 519176  Derechos Notariales: 622.00  Derechos Registrales: 5396.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 24, 33), '8'), ('519235', '3979783', 'KARDEX: 519235  Derechos Notariales: 634.63  Derechos Registrales: 2602.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 16, 44, 52), '8'), ('519235', '3979783', 'Llegó Cheque por el monto de US$   62,838.88 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 2, 18), '8'), ('519251', '3984007', 'KARDEX: 519251  Derechos Notariales: 573.66  Derechos Registrales: 1217.00', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 17, 23, 50), '8'), ('519251', '3984007', 'Llegó Desembolso por el monto de S/.  167,750.00 sin orden de retención de fecha 16/08/22.', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 3, 36), '8'), ('519251', '3984007', 'LLEGÓ CERTIFICADO BANCARIO', datetime.date(2022, 8, 16), datetime.datetime(1000, 1, 1, 18, 4, 8), '8')) HORA: 12.29.42
+
+Expendiente Nro. 230058 HORA: 12.29.54
+
+Expendiente Nro. 1593666 HORA: 12.30.9
+
+Expendiente Nro. None HORA: 12.30.32
+Error en el formato del nro expediente: ×
+Sucedió un error al realizar la búsqueda HORA: 12.30.34
+
+Expendiente Nro. 3977755 HORA: 12.30.35
+
+Expendiente Nro. 3980320 HORA: 12.30.59
+
+Expendiente Nro. 3980320 HORA: 12.31.22
+
+Expendiente Nro. 3994948 HORA: 12.31.44
+
+Expendiente Nro. 3994948 HORA: 12.32.8
+
+Expendiente Nro. 3978653 HORA: 12.32.31
+
+Expendiente Nro. 3987051 HORA: 12.32.52
+
+Expendiente Nro. 3987051 HORA: 12.33.14
+
+Expendiente Nro. 3990752 HORA: 12.33.35
+
+Expendiente Nro. 3990752 HORA: 12.33.56
+
+Expendiente Nro. 3994654 HORA: 12.34.18
+
+Expendiente Nro. 3994654 HORA: 12.34.39
+
+Expendiente Nro. 3991601 HORA: 12.35.0
+
+Expendiente Nro. 3987045 HORA: 12.35.24
+
+Expendiente Nro. 3989738 HORA: 12.35.47
+
+Expendiente Nro. 3990430 HORA: 12.36.11
+
+Expendiente Nro. 3999059 HORA: 12.36.35
+
+Expendiente Nro. 3966962 HORA: 12.36.56
+
+Expendiente Nro. 3999258 HORA: 12.37.18
+
+Expendiente Nro. 3999258 HORA: 12.37.42
+
+Expendiente Nro. 3995829 HORA: 12.38.6
+
+Expendiente Nro. 3959933 HORA: 12.38.27
+
+Expendiente Nro. 3995827 HORA: 12.38.52
+
+Expendiente Nro. 3995827 HORA: 12.39.14
+
+Expendiente Nro. 4000105 HORA: 12.39.36
+
+Expendiente Nro. 4002041 HORA: 12.40.1
+
+Expendiente Nro. 3998753 HORA: 12.40.24
+
+Expendiente Nro. 3998753 HORA: 12.40.45
+
+Expendiente Nro. 3996093 HORA: 12.41.6
+
+Expendiente Nro. 3994738 HORA: 12.41.29
+
+Expendiente Nro. 3998465 HORA: 12.41.53
+
+Expendiente Nro. 3991113 HORA: 12.42.20
+
+Expendiente Nro. 3998739 HORA: 12.42.42
+
+Expendiente Nro. 3999135 HORA: 12.43.5
+
+Expendiente Nro. 4000230 HORA: 12.43.26
+
+Expendiente Nro. 3994648 HORA: 12.43.48
+
+Expendiente Nro. 4000213 HORA: 12.44.9
+
+Expendiente Nro. 3995534 HORA: 12.44.33
+
+Expendiente Nro. 3988572 HORA: 12.44.57
+
+Expendiente Nro. 3988572 HORA: 12.45.20
+
+Expendiente Nro. 4003539 HORA: 12.45.43
+
+Expendiente Nro. 4003539 HORA: 12.46.6
+
+Expendiente Nro. 4003539 HORA: 12.46.32
+
+Expendiente Nro. 4003539 HORA: 12.46.58
+
+Expendiente Nro. 3998746 HORA: 12.47.22
+
+Expendiente Nro. 3991607 HORA: 12.47.43
+
+Expendiente Nro. 3999102 HORA: 12.48.7
+
+Expendiente Nro. 3999102 HORA: 12.48.30
+
+Expendiente Nro. 3999102 HORA: 12.48.56
+
+Expendiente Nro. 3988457 HORA: 12.49.21
+
+Expendiente Nro. 3998522 HORA: 12.49.45
+
+Expendiente Nro. 3998522 HORA: 12.50.18
+
+Expendiente Nro. 3999420 HORA: 12.50.51
+
+Expendiente Nro. 3999420 HORA: 12.51.15
+
+Expendiente Nro. 3999420 HORA: 12.51.39
+
+Expendiente Nro. 3997576 HORA: 12.52.3
+
+Expendiente Nro. 3997576 HORA: 12.52.28
+
+Expendiente Nro. 3997576 HORA: 12.52.53
+
+Expendiente Nro. 3998183 HORA: 12.53.17
+
+Expendiente Nro. 4000387 HORA: 12.53.39
+
+Expendiente Nro. 4000387 HORA: 12.54.6
+
+Expendiente Nro. 4002222 HORA: 12.54.32
+
+Expendiente Nro. 4002148 HORA: 12.54.57
+
+Expendiente Nro. 3979783 HORA: 12.55.21
+
+Expendiente Nro. 3979783 HORA: 12.55.47
+
+Expendiente Nro. 3984007 HORA: 12.56.12
+
+Expendiente Nro. 3984007 HORA: 12.56.35
+
+Expendiente Nro. 3984007 HORA: 12.56.57
+
+Consulta base de datos: 2022-08-18 14.00.00 / 2022-08-18 14.05.00 HORA: 14.10.42
+
+Casos encontrados: 77
+(('497517', '3998732', 'KARDEX: 497517  Derechos Notariales: 573.66  Derechos Registrales: 1635.00', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 56, 9), '8'), ('508434', '3967174', 'KARDEX: 508434  Derechos Notariales: 577.32  Derechos Registrales: 821.00', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 57), '8'), ('514592', '3990446', 'PENDIENTES: 1. HR/PU 2022.2.PREDIAL.3. ALCABALA.4. EECC VENDEDORA.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 11, 29, 42), '8'), ('514756', '3960695', 'CLIENTE CITADO PARA EL 19/08', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 14, 15, 17), '8'), ('515078', '3952020', 'PENDIENTE QUE INMOBILIARIA ACLARE LOS MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 10, 57, 23), '8'), ('515089', '3990438', 'PENDIENTE GARANTIA MOBILIARIA.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 15, 26, 56), '8'), ('515269', '3988739', 'Firmo: LOAYZA SEMINARIO JUAN MACIAS en representación de MIRANDA CONSTRUCTORES S.A.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 14, 41, 44), '8'), ('515293', '3948447', 'Firmo: HUARCAYA LINARES LUIGGI JOSUE', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 49, 14), '8'), ('515705', '3994067', 'Firmo: REINOSO ELBERS DANIEL ALBERTO en representación de KNCM INMOBILIARIA S.A.C.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 14, 40, 29), '8'), ('515862', '3980745', 'SE INDICA QUE AUN NO CONTAMOS CON LOS PAGOS A NOTARIA CORRESPONDIENTE, ASIMISMO SOLO SE HA VALIDADO LA CUARTA CLAUSULA ADICIONA, SE ENVIO CORREO A INMOBILIARIA CON FECHA 17/08', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 51, 35), '8'), ('516226', '3993191', 'CLIENTE CITADO PARA EL 18/08.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 12, 1, 20), '8'), ('516389', '3967764', 'SE SOLICITA A INMOBILIARIA ACLARAR MEDIOS DE PAGO DE MEDIANTE ESTADOS DE CUENTA.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 10, 51, 44), '8'), ('516513', '3964497', 'SE SOLICITÓ A INMOBILIARIA MEDIOS DE PAGO DE CUOTA INICIAL MEDIANTE ESTADOS DE CUENTA.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 9, 58, 45), '8'), ('516688', '3987045', 'Firmo: ARISTONDO VIZCARRA ROBERTO JUNIOR', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 16, 37), '8'), ('516855', '3999078', 'Firmo: CONDOR TORO RODOLFO JAIME', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 14, 34, 16), '8'), ('516899', '4001672', 'CITA DE CLIENTE PARA FIRMA DE E.P: MIERCOLES 17.08.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 13, 11, 48), '8'), ('516956', '3995833', 'SE ENVIO PROYECTO DE EP, A LA ESPERA DE CONFORMIDAD DEL CLIENTE', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 47, 48), '8'), ('517126', '3980137', 'PENDIENTE AUTORIZACIÓN DE ABOGADO EN MINUTA DE CV Y ANEXO, IGUALMENTE SE ENCUENTRA VENCIDO EL PLAZO PARA LA CANCELACIÓN DEL PRECIO DE VENTA. SE INFORMÓ A INMOBILIARIA.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 11, 7, 34), '8'), ('517169', '3996943', 'Firmo: RIVERO MOREY IVANNA CECILIA', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 27, 41), '8'), ('517180', '3988145', 'Mañana 18/08 se enviara proyecto de escritura al cliente', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 11, 55), '8'), ('517279', '3999059', 'Firmo: REINOSO ELBERS DANIEL ALBERTO en representación de KNCM INMOBILIARIA S.A.C.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 14, 37, 38), '8'), ('517318', '3998005', 'SE SOLICITÓ MEDIOS DE PAGO DE CUOTA INICIAL A INMOBILIARIA / A LA ESPERA DE RESPUESTA.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 14, 19, 54), '8'), ('517348', '3995846', 'LO CORRECTO ES: Llegó Depósito por el monto de S/. 100,200.00 de fecha 01/08/22.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 16, 51, 3), '8'), ('517354', '3960357', 'ESTIMADO SE INFORMA QUE SE ENCUENTRA PENDIENTE LOS PAGOS POR DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 58, 59), '8'), ('517397', '3970684', 'ERROR EN 5TA CLAUSULA ADICIONAL EN LAS FECHAS, NO CONCUERDA. SE ENVIO CORREO A LA INMOBILIARIA.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 6, 55), '8'), ('517398', '3997862', 'SE ENVIÓ PROYECTO DE ESCRITURA, QUEDA PENDIENTE LA CONFORMIDAD EXPRESA DEL MISMO PARA PROCEDER A CITAR.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 3, 20), '8'), ('517401', '3994633', 'Mañana 18/08 se enviara proyecto de escritura de no encontrarse ninguna observación', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 13, 49), '8'), ('517492', '3995829', 'SE ENCUENTRA PENDIENTE MINUTA DE COMPRAVENTA, MEDIOS DE PAGO DE CUOTA INICIAL Y CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 14, 24, 11), '8'), ('517597', '3994361', 'OBSERVADO: Minuta enviada en físico discrepa con el documento subido por Ciber', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 51, 30), '8'), ('517612', '4001866', 'Mañana 18/08 se enviara proyecto de escritura', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 57, 7), '8'), ('517757', '3996409', 'OBSEVADO: Pendiente minuta de CV en original por parte de inmobiliaria', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 58, 16), '8'), ('517758', '3995978', 'OBSERVADO: Pendiente minuta de CV en original por parte de inmobiliaria', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 55, 24), '8'), ('517819', '3998739', 'SE ENVIO CORREO A INMOBILIARIA CON DOCUMENTO ADJUNTO EL CONTRATO DE PRESTAMO Y PODER.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 4, 36), '8'), ('517821', '3990537', 'OBSERVADO: Pendiente minuta de CV en original por parte de inmobiliaria', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 16, 29), '8'), ('517822', '3999648', 'OBSERVADO: Pendiente minuta de CV en original por parte de inmobiliaria', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 9, 43), '8'), ('517823', '3999135', 'ESTIMADOS INFORMAMOS SE ENVIÓ PROYECTO DE ESCRITURA, QUEDA PENDIENTE LA CONFORMIDAD EXPRESA DEL MISMO PARA PROCEDER A CITAR.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 12, 0, 55), '8'), ('517824', '4000230', 'Se insertara adenda enviada por Cibergestion', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 8, 26), '8'), ('517825', '3982536', 'OBSERVADO: Pendiente minuta de CV en original por parte de inmobiliaria', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 1, 2), '8'), ('517826', '3997958', 'Pendiente minuta de CV en original por parte de inmobiliaria y pagos notariales y registrales', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 49, 32), '8'), ('517912', '3998840', 'SE PASA FILE PARA PRINT CON MINUTA DE CV EN ORIGINAL, PENDIENTE: ADENDA EN LA CUAL INDIQUEN EL EQUIVALENTE EN SOLES, ESTADOS DE CUENTA Y PAGOS POR NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 13, 56, 13), '8'), ('517971', '3998104', 'OBSERVADO: Pendiente minuta de CV en original por parte de inmobiliaria', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 10, 38), '8'), ('517973', '3999100', 'OBSERVADO: Pendiente minuta de CV en original por parte del cliente', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 59, 26), '8'), ('518032', '4000514', 'SE REGULARIZÓ MINUTARIO DE COMPRAVENTA, A LA ESPERA DE ACLARACIÓN DE MEDIOS DE PAGO POR PARTE DE LA INMOBILIARIA.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 19, 21, 31), '8'), ('518042', '3988572', 'Firmo: COLEMAN CACERES AYLEN DAIANA', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 15, 43, 8), '8'), ('518064', '3995473', 'CLIENTE CITADO PARA FIRMAR EEPP 18/08/2022 A LAS 06:00 PM', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 11, 4, 52), '8'), ('518064', '3995473', 'INMOBILIARIA ACABA DE INFORMAR QUE EMITIRAN UNA ADENDA, MOTIVO POR EL CUAL LA CITA DE LA CLIENTA ESTA SUPEDITADO AL ENVIO EN ORIGINAL DE DICHA ADENDA, CLIENTA SOLO PODRA FIRMAR EEPP EN CUANDO CONTEMOS CON LA ADENDA EN ORIGINAL Y SEA VALIDADA POR EL BANCO.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 12, 28, 30), '8'), ('518069', '3982725', 'PENDIENTE: FALTANTE POR AFP. LO CUAL FUE INFORMADO MEDIANTE CORREO AL CLIENTE E INMOBILIARIA', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 13, 54, 13), '8'), ('518069', '3982725', 'PENDIENTE: FALTANTE POR AFP. LO CUAL FUE INFORMADO MEDIANTE CORREO AL CLIENTE E INMOBILIARIA, Y PAGOS POR DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 13, 54, 49), '8'), ('518073', '3987855', 'PENDIENTE MEDIOS DE PAGO Y CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 14, 18, 47), '8'), ('518086', '3988488', 'Firmo: OLAYA PEREZ WILSON OMAR', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 46, 56), '8'), ('518086', '3988488', 'Firmo: DAVILA ARMAS KATTIA FELICIA', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 47, 51), '8'), ('518089', '3997133', 'Se envió proyecto de escritura, pendiente conformidad del cliente', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 53, 53), '8'), ('518093', '3987259', 'SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 14, 17, 47), '8'), ('518127', '3997127', 'PENDIENTE LAS EVIDENCIAS DE LAS CUOTAS INICIALES POR PARTE DE INMOBILIARIA Y POR PARTE DEL CLIENTE QUE ABONO A FAVOR DE LA INMB. EL MONTO DE S/ 13.03 PARA COMPLETAR AFP.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 20, 33, 25), '8'), ('518151', '3995961', 'PENDIENTE ACLARAR MEDIOS DE PAGO DE CUOTA INICIAL.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 15, 56, 42), '8'), ('518212', '3994152', 'CLIENTE CITADO PARA HOY 17/08/2022.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 9, 4, 51), '8'), ('518212', '3994152', 'Firmo: HERNANDEZ BERRU NEISER BRIAN', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 34, 2), '8'), ('518214', '3945444', 'SE REITERA: PENDIENTE: MINUTA DE CV EN ORIGINAL, ADENDA EN ORIGINAL, CON FIRMA DE TODOS LOS INTERVIENTES Y AUTORIZACION DE ABOGADO, EVIDENCIAS DE CUOTA INICIAL, PAGOS POR DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 10, 14, 34), '8'), ('518231', '4000092', 'Observado por error en la minuta, anexos y contrato de préstamo, se envió correo a inmobiliaria y no se obtiene respuesta', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 18, 47), '8'), ('518542', '4003240', 'SE PROGRAMO CITA PARA FIRMA DEL CLIENTE 17/08 4.00 PM', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 9, 53, 32), '8'), ('518542', '4003240', 'Firmo: URDAY HERRERA ANDRES', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 17, 5, 12), '8'), ('518568', '4000506', 'OBSERVADO: Pendiente minuta de CV en original por parte de inmobiliaria', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 21, 37), '8'), ('518575', '3996027', 'OBSERVADO:Pendiente minuta de Cv en original por parte de inmobiliaria', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 20, 30), '8'), ('518658', '3989429', 'CLIENTE Y GARANTE FIRMARA EP JUEVES 18/08 a las 4:00 PM (Hora exacta).', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 41, 40), '8'), ('518731', '4003179', 'PENDIENTE ESTADOS DE CUENTA RESPECTO DE LA CUOTA INCIIAL, LO CUAL YA HA SIDO INFORMADO A LA INMOBILIARIA, DEBIDO A QUE EN ALGUNOS VOUCHERS ADJUNTOS NO INDICA LA CUENTA DESTINO NI LA DENOMINACION.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 11, 49, 23), '8'), ('519144', '3998183', 'PENDIENTES:1. BLOQUEO INSCRITO.2. MINUTA DE CV ORIGINAL.3. RENTA.4. ALCABALA.5. PREDIAL.6. LEV DE HIPOTECA BBVA ORIGINAL Y PAGOS X EL MISMO - VENDEDOR.7.# DE CUENTA Y CREDITO HIPOTECARIO BBVA.8.PAGOS NOT Y REGIST COMPRADOR.9. PAGOS X EL ESCRITO-VENDEDOR.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 13, 24, 27), '8'), ('519144', '3998183', '10. CONFORMIDAD- LAS PARTES.11. EVIDENCIA INICIAL.12. CHEQUE PRODUCTO DEL DESEMBOLSO.13. CONSULTA SOBRE SI SE TRABAJARA CARTE RETE.-CG.14. PROF. U OCUPACION APODERADA.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 13, 25, 50), '8'), ('519152', '4000387', 'SE SOLICITO A INMOBILIARIA MEDIOS DE PAGO DE CUOTA INICIAL, IGUALMENTE SE REITERA QUE SE ENCUENTRA PENDIENTE LA CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 14, 22, 56), '8'), ('519152', '4000387', 'PENDIENTE CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 20, 9, 25), '8'), ('519251', '3984007', 'PENDIENTE ADJUNTAR ASIENTOS REGISTRALES DE LEVANTAMIENTO MATRIZ, MINUTARIO ORIGINAL , MEDIOS DE PAGO DE CUOTA INICIAL Y CANCELACIÓN DE DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 9, 21, 37), '8'), ('519317', '3987671', 'KARDEX: 519317  Derechos Notariales: 573.66  Derechos Registrales: 1645.00', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 11, 48, 39), '8'), ('519407', '4003014', 'Llegó Cheque por el monto de S/.  234,990.00 con orden de retención de fecha 17/08/22.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 33, 26), '8'), ('519407', '4003014', 'KARDEX: 519407  Derechos Notariales: 573.66  Derechos Registrales: 1446.00', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 33, 50), '8'), ('519407', '4003014', 'PENDIENTE: MINUTA DE COMPRA VENTA EN ORIGINAL, EVIDENCIAS DE CUOTA INICIAL, PAGOS POR DERECHOS NOTARIALES Y REGISTRALES, LO CUAL TAMBIEN FUE INFORMADO MEDIANTE CORREO.', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 19, 37, 47), '8'), ('519412', '3988086', 'KARDEX: 519412  Derechos Notariales: 623.65  Derechos Registrales: 1968.00', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 34, 45), '8'), ('519416', '3999330', 'KARDEX: 519416  Derechos Notariales: 573.66  Derechos Registrales: 2000.00', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 54, 52), '8'), ('519418', '4005162', 'KARDEX: 519418  Derechos Notariales: 627.31  Derechos Registrales: 4760.00', datetime.date(2022, 8, 17), datetime.datetime(1000, 1, 1, 18, 55, 31), '8')) HORA: 14.10.42
+
+Expendiente Nro. 3998732 HORA: 14.10.54
+
+Expendiente Nro. 3967174 HORA: 14.11.18
+
+Expendiente Nro. 3990446 HORA: 14.11.42
+
+Expendiente Nro. 3960695 HORA: 14.12.5
+
+Expendiente Nro. 3952020 HORA: 14.12.27
+
+Expendiente Nro. 3990438 HORA: 14.12.51
+
+Expendiente Nro. 3988739 HORA: 14.13.17
+
+Expendiente Nro. 3948447 HORA: 14.13.39
+
+Expendiente Nro. 3994067 HORA: 14.14.4
+
+Expendiente Nro. 3980745 HORA: 14.14.33
+
+Expendiente Nro. 3993191 HORA: 14.14.58
+
+Expendiente Nro. 3967764 HORA: 14.15.26
+
+Expendiente Nro. 3964497 HORA: 14.15.54
+
+Expendiente Nro. 3987045 HORA: 14.16.18
+
+Expendiente Nro. 3999078 HORA: 14.16.45
+
+Expendiente Nro. 4001672 HORA: 14.17.10
+
+Expendiente Nro. 3995833 HORA: 14.17.31
+
+Expendiente Nro. 3980137 HORA: 14.17.59
+
+Expendiente Nro. 3996943 HORA: 14.18.28
+
+Expendiente Nro. 3988145 HORA: 14.18.52
+
+Expendiente Nro. 3999059 HORA: 14.19.17
+
+Expendiente Nro. 3998005 HORA: 14.19.39
+
+Expendiente Nro. 3995846 HORA: 14.20.3
+
+Expendiente Nro. 3960357 HORA: 14.20.26
+
+Expendiente Nro. 3970684 HORA: 14.20.54
+
+Expendiente Nro. 3997862 HORA: 14.21.18
+
+Expendiente Nro. 3994633 HORA: 14.21.43
+
+Expendiente Nro. 3995829 HORA: 14.22.5
+
+Expendiente Nro. 3994361 HORA: 14.22.29
+
+Expendiente Nro. 4001866 HORA: 14.22.53
+
+Expendiente Nro. 3996409 HORA: 14.23.15
+
+Expendiente Nro. 3995978 HORA: 14.23.38
+
+Expendiente Nro. 3998739 HORA: 14.24.3
+
+Expendiente Nro. 3990537 HORA: 14.24.27
+
+Expendiente Nro. 3999648 HORA: 14.24.49
+
+Expendiente Nro. 3999135 HORA: 14.25.11
+
+Expendiente Nro. 4000230 HORA: 14.25.32
+
+Expendiente Nro. 3982536 HORA: 14.25.56
+
+Expendiente Nro. 3997958 HORA: 14.26.21
+
+Expendiente Nro. 3998840 HORA: 14.26.43
+
+Expendiente Nro. 3998104 HORA: 14.27.10
+
+Expendiente Nro. 3999100 HORA: 14.27.32
+
+Expendiente Nro. 4000514 HORA: 14.27.55
+
+Expendiente Nro. 3988572 HORA: 14.28.20
+
+Expendiente Nro. 3995473 HORA: 14.28.44
+
+Expendiente Nro. 3995473 HORA: 14.29.9
+
+Expendiente Nro. 3982725 HORA: 14.29.34
+
+Expendiente Nro. 3982725 HORA: 14.29.58
+
+Expendiente Nro. 3987855 HORA: 14.30.21
+
+Expendiente Nro. 3988488 HORA: 14.30.46
+
+Expendiente Nro. 3988488 HORA: 14.31.10
+
+Expendiente Nro. 3997133 HORA: 14.31.33
+
+Expendiente Nro. 3987259 HORA: 14.31.56
+
+Expendiente Nro. 3997127 HORA: 14.32.17
+
+Expendiente Nro. 3995961 HORA: 14.32.38
+
+Expendiente Nro. 3994152 HORA: 14.33.2
+
+Expendiente Nro. 3994152 HORA: 14.33.27
+
+Expendiente Nro. 3945444 HORA: 14.33.51
+
+Expendiente Nro. 4000092 HORA: 14.34.17
+
+Expendiente Nro. 4003240 HORA: 14.34.44
+
+Expendiente Nro. 4003240 HORA: 14.35.10
+
+Expendiente Nro. 4000506 HORA: 14.35.39
+
+Expendiente Nro. 3996027 HORA: 14.36.4
+
+Expendiente Nro. 3989429 HORA: 14.36.26
+
+Expendiente Nro. 4003179 HORA: 14.36.57
+
+Expendiente Nro. 3998183 HORA: 14.37.24
+
+Expendiente Nro. 3998183 HORA: 14.37.49
+
+Expendiente Nro. 4000387 HORA: 14.38.13
+
+Expendiente Nro. 4000387 HORA: 14.38.43
+
+Expendiente Nro. 3984007 HORA: 14.39.10
+
+Expendiente Nro. 3987671 HORA: 14.39.33
+
+Expendiente Nro. 4003014 HORA: 14.39.55
+
+Expendiente Nro. 4003014 HORA: 14.40.19
+
+Expendiente Nro. 4003014 HORA: 14.40.44
+
+Expendiente Nro. 3988086 HORA: 14.41.9
+
+Expendiente Nro. 3999330 HORA: 14.41.32
+
+Expendiente Nro. 4005162 HORA: 14.41.54
+
+Consulta base de datos: 2022-08-18 14.36.00 / 2022-08-18 14.41.00 HORA: 14.46.55
+
+Casos encontrados: 54
+(('501823', '3959324', 'PENDIENTE ADENDA EN ORIGINAL, EVIDENCIAS DE INCIIAL Y PAGOS POR NOTARIALES Y REGISTRALES LO CUAL YA HA SIDO INFORMADO CON ANTERIORIDAD', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 18, 51, 28), '8'), ('507080', '3964389', 'CLIENTA INDICO QUE NO FIRMARIA HASTA QUE MODIFIQUEN LA FORMA DE PAGO EN SU ADENDA, DEBIDO A QUE MANIFIESTA QUE ELLA NO REALIZO LOS PAGOS DE LA FORMA EN LA CUAL LO INDICAN EN LA ADENDA, ASIMISMO ELLO LO DEBERA DE COORDINAR LA INMOBILIARIA CON LA CLIENTA', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 18, 55, 2), '8'), ('511266', '3988631', 'PENDIENTE HASTA LA FECHA CLAUSULA ADICIONAL DE PODER IRREVOCABLE LO CUAL YA HA SIDO INFORMADO A LA INMOBILIARIA.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 19, 1, 1), '8'), ('511931', '3978001', 'CLIENTE HASTA LA FECHA NO INDICA SU DISPONIBILIDAD PARA FIRMAR EEPP', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 19, 2, 10), '8'), ('514089', '3986815', 'PENDIENTE CORREGIR ADENDAS POR PARTE DE LA INMOBILIARIA, LO CUAL NO HA SIDO REGULARIZADO.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 20, 26, 31), '8'), ('516197', '3993429', 'CLIENTE CITADO PARA FIRMAR EEPP 15/08/2022 A LAS 05:00 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 12, 59, 9), '8'), ('516197', '3993429', 'Firmo: BRICEÑO QUISPE SLIN GENESIS', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 18, 35), '8'), ('516202', '3994776', 'CLIENTE CITADO PARA EL DIA 15/08/2022 A LAS 03:00 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 29, 1), '8'), ('516332', '3987073', 'PENDIENTE MINUTA COMPRA VENTA EN ORIGINAL, EVIDENCIAS DE CUOTA INICIAL', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 19, 40), '8'), ('517237', '3997346', 'Llegó Cheque por el monto de S/.    6,025.00 con orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 32, 8), '8'), ('517237', '3997346', 'Llegó Cheque por el monto de S/.  392,490.00 con orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 32, 39), '8'), ('517311', '3994915', 'CLIENTE CITADO PARA FIRMAR EEPP 16/08/2022 A LAS 04:00 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 16, 7, 15), '8'), ('517347', '3993147', 'KARDEX: 517347  Derechos Notariales: 573.66  Derechos Registrales: 1040.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 49, 36), '8'), ('517409', '4002223', 'PENDIENTE MINUTA DE COMPRA VENTA EN ORIGINAL, ADENDA, EVIDENCIAS DE CUOTA INICIAL, PAGOS POR NOTARIALES Y REGISTRALES', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 19, 36, 10), '8'), ('517519', '3959933', 'CLIENTE CITADO PARA FIRMAR EEPP 16/08/2022 A LAS 04:30 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 31, 40), '8'), ('517520', '3995827', 'CLIENTE CITADO PARA FIRMAR EEPP 16/08/2022 A LAS 06:00 PM', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 35, 52), '8'), ('517643', '3999180', 'Firmo: QUINTANA TINEO CHRISTIAN BLAKE', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 18, 29, 17), '8'), ('517643', '3999180', 'Firmo: CABRERA VALDIVIESO ANDREA DEL PILAR', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 18, 29, 49), '8'), ('517704', '3995320', 'SE REMITIO CORREO PARA PROGRAMAR FIRMA EN EP A COMPRADORES', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 34, 27), '8'), ('517727', '4000591', 'Firmo: FLORES FLORES  KATHERINE SOLANGE', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 18, 7, 55), '8'), ('517727', '4000591', 'Firmo: SERPA TERRAZOS JOSE HUMBERTO en representación de GASTRO SAN BORJA S.A.C.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 18, 8, 25), '8'), ('517740', '3972481', 'SE REITERA PENDIENTE: MINUTA DE CV EN ORIGINAL, EVIDENCIAS DE CUOTA INICIAL.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 14, 57, 8), '8'), ('517971', '3998104', 'KARDEX: 517971  Derechos Notariales: 573.66  Derechos Registrales: 1042.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 33, 41), '8'), ('517972', '3997914', 'KARDEX: 517972  Derechos Notariales: 573.66  Derechos Registrales: 814.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 34, 45), '8'), ('518005', '3994961', 'KARDEX: 518005  Derechos Notariales: 577.32  Derechos Registrales: 1874.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 30, 16), '8'), ('518007', '4000247', 'KARDEX: 518007  Derechos Notariales: 573.66  Derechos Registrales: 1881.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 28, 29), '8'), ('518009', '4000213', 'KARDEX: 518009  Derechos Notariales: 623.65  Derechos Registrales: 2591.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 30, 56), '8'), ('518009', '4000213', 'CLIENTE CITADO PARA FIRMAR EEPP 16/08/2022 A LAS 05:00 PM .', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 11, 53, 4), '8'), ('518057', '4003539', 'SE CITO AL CLIENTE PARA FIRMA DE EP: 16/08/2022 11.30 AM.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 19, 23, 23), '8'), ('518059', '4002036', 'PENDIENTE PAGOS POR DERECHOS NOTARIALES Y REGISTRALES', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 19, 21), '8'), ('518069', '3982725', 'KARDEX: 518069  Derechos Notariales: 573.66  Derechos Registrales: 1748.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 55, 54), '8'), ('518073', '3987855', 'KARDEX: 518073  Derechos Notariales: 627.31  Derechos Registrales: 3067.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 10, 47), '8'), ('518073', '3987855', 'Llegó Cheque por el monto de S/.  372,000.00 sin orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 31, 23), '8'), ('518093', '3987259', 'KARDEX: 518093  Derechos Notariales: 577.32  Derechos Registrales: 1819.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 48, 40), '8'), ('518127', '3997127', 'KARDEX: 518127  Derechos Notariales: 573.66  Derechos Registrales: 1742.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 35, 54), '8'), ('518151', '3995961', 'KARDEX: 518151  Derechos Notariales: 573.66  Derechos Registrales: 1759.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 32, 45), '8'), ('518193', '3995082', 'Llegó Cheque por el monto de US$  112,000.00 sin orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 22, 32), '8'), ('518193', '3995082', 'Llegó Cheque por el monto de US$   80,000.00 sin orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 23, 15), '8'), ('518202', '3997343', 'KARDEX: 518202  Derechos Notariales: 630.97  Derechos Registrales: 9730.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 27, 32), '8'), ('518207', '3998991', 'KARDEX: 518207  Derechos Notariales: 623.65  Derechos Registrales: 2598.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 26, 36), '8'), ('518314', '3997839', 'PENDIENTES:1.. MINUTA DE CV ORIGINAL.2. PU 2022 DEL DPTO.3.RENTA.4. ALCABALA.5. PROF COMPRADOR Y VENDEDORES.\t', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 19, 23), '8'), ('518330', '3999472', 'PENDIENTE: PAGOS POR DERECHOS NOTARIALES, REGISTRALES', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 19, 15, 34), '8'), ('518596', '3998481', 'Llegó Cheque por el monto de US$  253,600.00 sin orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 24, 34), '8'), ('518596', '3998481', 'Llegó Cheque por el monto de S/.   26,120.80 con orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 33, 14), '8'), ('518596', '3998481', 'PENDIENTE: 1. Pago de derechos Notariales S/ 623.65 y Registrales S/ 6,031.00. (Comprador).', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 16, 33, 16), '8'), ('518658', '3989429', 'Llegó Cheque por el monto de US$  400,000.00 sin orden de retención de fecha 11/08/22.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 15, 30, 49), '8'), ('518903', '3988457', 'KARDEX: 518903  Derechos Notariales: 630.97  Derechos Registrales: 3520.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 48, 39), '8'), ('518910', '3998522', 'KARDEX: 518910  Derechos Notariales: 623.65  Derechos Registrales: 3605.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 10, 23, 33), '8'), ('518919', '3989995', 'KARDEX: 518919  Derechos Notariales: 627.31  Derechos Registrales: 1792.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 44, 49), '8'), ('518928', '3997379', 'KARDEX: 518928  Derechos Notariales: 623.65  Derechos Registrales: 1919.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 9, 46, 54), '8'), ('518928', '3997379', 'PENDIENTE: MINUTA DE CV EN ORIGINAL, ADENDA, EVIDENCIAS DE CUOTA INICIAL, PAGOS POR DERECHOS NOTARIALES Y REGISTRALES.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 11, 4, 40), '8'), ('519041', '3997576', 'KARDEX: 519041  Derechos Notariales: 641.94  Derechos Registrales: 4496.00', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 13, 29, 54), '8'), ('519041', '3997576', 'PENDIENTES:1. BLOQUEO INSCRITO.2. MINUTA DE CV ORIGINAL.3.  HR/PU 2022  de c/u de los vendedores.4. RENTA.5. ALCABALA.6. PREDIAL.7. PAGOS NOT Y REGIST-COMPRADOR.8. EVIDENCIA INICIAL.9. CHEQUE RECURSOS PROPIOS.10. CHEQUE PRODUCTO DEL DESEMBOLSO.', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 13, 50, 28), '8'), ('519041', '3997576', '11. PROF. U OCUP - APODERADOS DE VENDEDORES', datetime.date(2022, 8, 15), datetime.datetime(1000, 1, 1, 13, 50, 45), '8')) HORA: 14.46.55
+
+Expendiente Nro. 3959324 HORA: 14.47.8
+
+Expendiente Nro. 3964389 HORA: 14.47.32
+
+Expendiente Nro. 3988631 HORA: 14.47.57
+
+Expendiente Nro. 3978001 HORA: 14.48.25
+
+Expendiente Nro. 3986815 HORA: 14.48.54
+
+Expendiente Nro. 3993429 HORA: 14.49.23
+
+Expendiente Nro. 3993429 HORA: 14.49.57
+
+Expendiente Nro. 3994776 HORA: 14.50.30
+
+Expendiente Nro. 3987073 HORA: 14.50.52
+
+Expendiente Nro. 3997346 HORA: 14.51.15
+
+Expendiente Nro. 3997346 HORA: 14.51.39
+
+Expendiente Nro. 3994915 HORA: 14.52.3
+
+Expendiente Nro. 3993147 HORA: 14.52.28
+
+Expendiente Nro. 4002223 HORA: 14.52.53
+
+Expendiente Nro. 3959933 HORA: 14.53.18
+
+Expendiente Nro. 3995827 HORA: 14.53.48
+
+Expendiente Nro. 3999180 HORA: 14.54.12
+
+Expendiente Nro. 3999180 HORA: 14.54.35
+
+Expendiente Nro. 3995320 HORA: 14.54.58
+
+Expendiente Nro. 4000591 HORA: 14.55.25
+
+Expendiente Nro. 4000591 HORA: 14.55.53
+
+Expendiente Nro. 3972481 HORA: 14.56.22
+
+Expendiente Nro. 3998104 HORA: 14.56.54
+
+Expendiente Nro. 3997914 HORA: 14.57.16
+
+Expendiente Nro. 3994961 HORA: 14.57.37
+
+Expendiente Nro. 4000247 HORA: 14.58.3
+
+Expendiente Nro. 4000213 HORA: 14.58.25
+
+Expendiente Nro. 4000213 HORA: 14.58.51
+
+Expendiente Nro. 4003539 HORA: 14.59.16
+
+Expendiente Nro. 4002036 HORA: 14.59.47
+
+Expendiente Nro. 3982725 HORA: 15.0.22
+
+Expendiente Nro. 3987855 HORA: 15.0.50
+
+Expendiente Nro. 3987855 HORA: 15.1.21
+
+Expendiente Nro. 3987259 HORA: 15.1.54
+
+Expendiente Nro. 3997127 HORA: 15.2.23
+
+Expendiente Nro. 3995961 HORA: 15.2.49
+
+Expendiente Nro. 3995082 HORA: 15.3.17
+
+Expendiente Nro. 3995082 HORA: 15.3.49
+
+Expendiente Nro. 3997343 HORA: 15.4.18
+
+Expendiente Nro. 3998991 HORA: 15.4.51
+
+Expendiente Nro. 3997839 HORA: 15.5.22
+
+Expendiente Nro. 3999472 HORA: 15.5.54
+
+Expendiente Nro. 3998481 HORA: 15.6.26
+
+Expendiente Nro. 3998481 HORA: 15.6.53
+
+Expendiente Nro. 3998481 HORA: 15.7.19
+
+Expendiente Nro. 3989429 HORA: 15.7.45
+
+Expendiente Nro. 3988457 HORA: 15.8.21
+
+Expendiente Nro. 3998522 HORA: 15.8.48
+
+Expendiente Nro. 3989995 HORA: 15.9.27
+
+Expendiente Nro. 3997379 HORA: 15.9.58
+
+Expendiente Nro. 3997379 HORA: 15.10.28
+
+Expendiente Nro. 3997576 HORA: 15.10.57
+
+Expendiente Nro. 3997576 HORA: 15.11.28
+
+Expendiente Nro. 3997576 HORA: 15.11.59
+
+Consulta base de datos: 2022-08-18 15.13.00 / 2022-08-18 15.18.00 HORA: 15.23.31
+
+Casos encontrados: 0
+() HORA: 15.23.31
+
+Consulta base de datos: 2022-08-18 15.13.00 / 2022-08-18 15.18.00 HORA: 15.23.49
+
+Casos encontrados: 35
+(('511759', '3995141', 'SE REMITIO CORREO A FUNCIONARIO SOLICITANDO VOUCHER DE CANCELACION POR LEV DE HIPOTECA BCP/ POSTERIOR A ELLO, SE PROCEDERA A PROGRAMAR FIRMAS EN EP POR EL LEV DE HIPOTECA', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 12, 55, 34), '8'), ('512094', '3982721', 'Firmo: GASPAR AGREDA DE ROJAS JUANA RUFINA', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 12, 25, 54), '8'), ('514452', '3972534', 'Firmo: GALLARDO CASTRO DANIEL MARTIN', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 11, 21, 34), '8'), ('514452', '3972534', 'Firmo: ARCE CALAMPA JENNY MABEL', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 11, 22, 1), '8'), ('514660', '3990436', 'Firmo: LLERENA QUISPE SAUL', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 10, 0, 4), '8'), ('515841', '3981596', 'Firmo: HUBY PACHECO DE BARRETO MARIA DEL CARMEN', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 21, 48), '8'), ('515841', '3981596', 'Firmo: VERA JERI GIANINA HELLEN', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 22, 8), '8'), ('515854', '3986894', 'Firmo: BENANCIO LAURENTE JULGENCIO GENADIO', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 19, 2, 51), '8'), ('516534', '3995403', 'SE REITERA PENDIENTE: MINUTA DE CV EN ORIGINAL, EVIDENCIAS DE CUOTA INICIAL', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 13, 31, 39), '8'), ('517137', '3997028', 'PENDIENTE MINUTA DE CV EN ORIGINAL, EVIDENCIAS DE CUOTA INICIAL.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 11, 44, 41), '8'), ('517137', '3997028', 'LA MINUTA DE CV EN ORIGINAL SE RECEPCIONO EL DIA DE HOY 12/08/2022, SE VERIFICO QUE NO CUENTA CON AUTORIZACION DE ABOGADO EN ORIGINAL, SE ENCUENTRA LA AUTORIZACION EN COPIA, DEBERA DE REGULARIZARSE CON ANTERIORIDAD, PDT. ESTADOS DE CUENTA POR INICIAL', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 12, 20, 29), '8'), ('517318', '3998005', 'Llegó Cheque por el monto de S/.  331,900.00 con orden de retención de fecha 12/08/22.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 38, 25), '8'), ('517444', '3989890', 'CLIENTE CITADO PARA FIRMAR EEPP 15/08/2022 A LA 01:30 PM', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 16, 28, 5), '8'), ('517449', '3990935', 'CONFORME INDICACIONES DE CIBERGESTION SE DEVOLVIÓ CHEQUE N° 14500698 S/ 443,000.00 AL PROCURADOR (SR. ELMER).', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 11, 36, 48), '8'), ('517449', '3990935', 'Llegó Cheque por el monto de S/.  443,000.00 sin orden de retención de fecha 12/08/22.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 44, 1), '8'), ('517558', '3993074', 'Firmo: AÑORGA MÜLLER ERIC ANDRES', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 13, 37, 58), '8'), ('517558', '3993074', 'Firmo: AROSEMENA COLOMA ROSANA', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 13, 38, 17), '8'), ('517578', '3998753', 'Firmo: MATEO UCEDA MARCO ANTONIO', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 14, 36, 58), '8'), ('517578', '3998753', 'Firmo: ORDUÑA BEJARANO MAGALY PAOLA', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 14, 37, 17), '8'), ('517593', '3993940', 'Llegó Cheque por el monto de S/.   60,000.00 con orden de retención de fecha 12/08/22.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 26, 11), '8'), ('517700', '3970158', 'PENDIENTES:1. HR/ PU C/INMUEBLE 2022 LEGIBLE DE C/U DE LOS INMUEBLES.2. RENTA POR LOS DEPOSITOS.3. ALCABALA.4. PREDIAL.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 12, 40, 52), '8'), ('517763', '3997532', 'SE REMITIO CORREO A CLIENTE PARA PROGRAMAR FIRMA EN EP', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 10, 43, 53), '8'), ('517763', '3997532', 'COMPRADOR FIRMARA EP LUNES 15/08 a las 6:00 PM (Hora exacta).', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 11, 37, 55), '8'), ('518212', '3994152', 'KARDEX: 518212  Derechos Notariales: 573.66  Derechos Registrales: 1760.00', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 10, 15, 48), '8'), ('518540', '4003422', 'Llegó Cheque por el monto de US$  200,000.00 sin orden de retención de fecha 12/08/22.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 28, 42), '8'), ('518540', '4003422', 'Llegó Cheque por el monto de US$    8,395.06 sin orden de retención de fecha 12/08/22.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 29, 51), '8'), ('518540', '4003422', 'Llegó Cheque por el monto de S/.   25,000.00 con orden de retención de fecha 12/08/22.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 40, 40), '8'), ('518658', '3989429', 'KARDEX: 518658  Derechos Notariales: 627.31  Derechos Registrales: 4604.00', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 10, 14, 49), '8'), ('518730', '3999156', 'KARDEX: 518730  Derechos Notariales: 623.65  Derechos Registrales: 2312.00', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 10, 13, 14), '8'), ('518731', '4003179', 'KARDEX: 518731  Derechos Notariales: 627.31  Derechos Registrales: 2542.00', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 10, 13, 55), '8'), ('518735', '3999102', 'PENDIENTES:1. BLOQUEO INSCRITO.2. MINUTA DE CV ORIGINAL.3. RENTA.4. ALCABALA.5. PREDIAL.6. LEV DE HIPOTECA BCP ORIGINAL Y PAGOS X EL MISMO-VENDEDOR.7. PAGOS NOT Y REGIST-COMPRADOR.8. EVIDENCIA INICIAL.9. CHEQUE PRODUCTO DEL DESEMBOLSO.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 10, 0, 51), '8'), ('518903', '3988457', 'PENDIENTES:1. BLOQUEO INSCRITO..2. HR /PU 2022 DE C/U DE LOS VENDEDORES.3. ALCABALA.4. PAGOS NOT Y REGIST COMPRADOR.5. CHEQUE PRODUCTO DEL DESEMBOLSO.6. PROF U OCUP CONTRATANTES.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 19, 4, 3), '8'), ('518910', '3998522', 'Llegó Cheque por el monto de S/.  407,292.00 con orden de retención de fecha 12/08/22.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 36, 27), '8'), ('518919', '3989995', 'Llegó Cheque por el monto de S/.  264,384.00 sin orden de retención de fecha 12/08/22.', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 31, 47), '8'), ('518933', '3999420', 'KARDEX: 518933  Derechos Notariales: 630.97  Derechos Registrales: 2163.00', datetime.date(2022, 8, 12), datetime.datetime(1000, 1, 1, 18, 34, 43), '8')) HORA: 15.23.49
+
+Expendiente Nro. 3995141 HORA: 15.24.1
+
+Expendiente Nro. 3982721 HORA: 15.24.25
+
+Expendiente Nro. 3972534 HORA: 15.24.50
+
+Expendiente Nro. 3972534 HORA: 15.25.12
+
+Expendiente Nro. 3990436 HORA: 15.25.32
+
+Expendiente Nro. 3981596 HORA: 15.25.58
+
+Expendiente Nro. 3981596 HORA: 15.26.26
+
+Expendiente Nro. 3986894 HORA: 15.26.51
+
+Expendiente Nro. 3995403 HORA: 15.27.17
+
+Expendiente Nro. 3997028 HORA: 15.27.42
+
+Expendiente Nro. 3997028 HORA: 15.28.4
+
+Expendiente Nro. 3998005 HORA: 15.28.24
+
+Expendiente Nro. 3989890 HORA: 15.28.48
+
+Expendiente Nro. 3990935 HORA: 15.29.9
+
+Expendiente Nro. 3990935 HORA: 15.29.31
+
+Expendiente Nro. 3993074 HORA: 15.29.53
+
+Expendiente Nro. 3993074 HORA: 15.30.17
+
+Expendiente Nro. 3998753 HORA: 15.30.39
+
+Expendiente Nro. 3998753 HORA: 15.31.5
+
+Expendiente Nro. 3993940 HORA: 15.31.29
+
+Expendiente Nro. 3970158 HORA: 15.31.53
+
+Expendiente Nro. 3997532 HORA: 15.32.21
+
+Expendiente Nro. 3997532 HORA: 15.32.44
+
+Expendiente Nro. 3994152 HORA: 15.33.7
+
+Expendiente Nro. 4003422 HORA: 15.33.30
+
+Expendiente Nro. 4003422 HORA: 15.33.58
+
+Expendiente Nro. 4003422 HORA: 15.34.24
+
+Expendiente Nro. 3989429 HORA: 15.34.50
+
+Expendiente Nro. 3999156 HORA: 15.35.17
+
+Expendiente Nro. 4003179 HORA: 15.35.42
+
+Expendiente Nro. 3999102 HORA: 15.36.8
+
+Expendiente Nro. 3988457 HORA: 15.36.33
+
+Expendiente Nro. 3998522 HORA: 15.36.59
+
+Expendiente Nro. 3989995 HORA: 15.37.36
+
+Expendiente Nro. 3999420 HORA: 15.38.1
