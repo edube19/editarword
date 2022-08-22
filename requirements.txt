@@ -1,0 +1,6 @@
+Datetime == 4.4
+colorama == 0.4.4
+playwright == 1.17.0
+PyMySQL == 1.0.2
+google-api-python-client == 2.56.0
+google-auth-oauthlib == 0.5.2
